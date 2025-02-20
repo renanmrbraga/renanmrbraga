@@ -34,8 +34,7 @@ Me chamo Renan Martins Braga, tenho 34 anos e sou natural de Volta Redonda/RJ. C
 
 ### 📊 Estatísticas
 
-<p>
-<img align="left" alt="GitHub Stats" height="200" src="https://github-readme-stats.vercel.app/api?username=renanmrbraga&show_icons=true&theme=radical&include_all_commits=true&locale=pt-br" />
-
-<img align="left" alt="GitHub Stats" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renanmrbraga&theme=radical&layout=compact&custom_title=Tecnologias" />
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=renanmrbraga&show_icons=true&theme=radical&include_all_commits=true&locale=pt-br" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renanmrbraga&theme=radical&layout=compact&custom_title=Tecnologias" />
 </p>
