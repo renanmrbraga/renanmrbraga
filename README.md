@@ -1,6 +1,6 @@
 # Renan Braga
 
-Me chamo Renan Martins Braga, tenho 34 anos e sou natural de Volta Redonda/RJ. Concluí o Ensino Técnico Integrado em Informática no Colégio do Instituto Batista Americano. Atualmente, estou cursando Tecnologia em Sistemas de Computação na Universidade Federal Fluminense (UFF) e concluindo um certificado em Cientista de Dados na Escola DNC.
+Sou Renan Martins Braga, natural de Volta Redonda/RJ, e tenho 34 anos. Finalizei o Ensino Técnico Integrado em Informática no Colégio do Instituto Batista Americano. No momento, estou cursando Tecnologia em Sistemas de Computação na Universidade Federal Fluminense (UFF) e também estou concluindo um certificado em Cientista de Dados pela Escola DNC.
 
 <p align="left">
    <a href="https://github.com/renanmrbraga?tab=followers">
