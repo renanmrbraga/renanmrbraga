@@ -1,8 +1,15 @@
 # Renan Braga
 
-Me chamo Renan Martins Braga, tenho 34 anos e sou natural de Volta Redonda/RJ. Concluí o Ensino Técnico Integrado em Informática no Colégio do Instituto Batista Americano. Atualmente, curso Tecnologia em Sistemas de Computação na Universidade Federal Fluminense (UFF) e estou finalizando um certificado de Cientista de Dados na Escola DNC.
+Me chamo Renan Martins Braga, tenho 34 anos e sou natural de Volta Redonda/RJ. Concluí o Ensino Técnico Integrado em Informática no Colégio do Instituto Batista Americano. Atualmente, estou cursando Tecnologia em Sistemas de Computação na Universidade Federal Fluminense (UFF) e concluindo um certificado em Cientista de Dados na Escola DNC.
 
-[LinkedIn](https://www.linkedin.com/in/renanmrbraga)
+<p align="left">
+   <a href="https://github.com/renanmrbraga?tab=followers">
+      <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/renanmrbraga?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+   </a>
+   <a href="https://www.linkedin.com/in/renan-martins-braga/">
+      <img alt="LinkedIn" title="Connect with me on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+   </a>
+</p>
 
 ---
 
@@ -37,6 +44,6 @@ Me chamo Renan Martins Braga, tenho 34 anos e sou natural de Volta Redonda/RJ. C
 ### 📊 Estatísticas
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=renanmrbraga&show_icons=true&theme=radical&include_all_commits=true&locale=pt-br" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renanmrbraga&theme=radical&layout=compact&custom_title=Tecnologias" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=renanmrbraga&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renanmrbraga&theme=dark&layout=compact&custom_title=Tecnologias" />
 </p>
