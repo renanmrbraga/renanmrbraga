@@ -1,6 +1,6 @@
 # Renan Braga
 
-Me chamo Renan Martins Braga, tenho 34 anos e sou natural de Volta Redonda/RJ. Concluí o Ensino Técnico Integrado em Informática no Colégio do Instituto Batista Americano. Atualmente, estou cursando Tecnologia em Sistemas de Computação na Universidade Federal Fluminense (UFF) e concluindo um certificado em Cientista de Dados na Escola DNC.
+I'm Renan Martins Braga, 34 years old, from Volta Redonda/RJ. I completed a Technical Integrated Course in Information Technology at the Colégio do Instituto Batista Americano. Currently, I am pursuing a degree in Computer Systems Technology at the Universidade Federal Fluminense (UFF) and completing a Data Science certification at Escola DNC.
 
 <p align="left">
    <a href="https://github.com/renanmrbraga?tab=followers">
@@ -15,14 +15,14 @@ Me chamo Renan Martins Braga, tenho 34 anos e sou natural de Volta Redonda/RJ. C
 
 ### 🏆 Certificados
 
-- **Inteligência de Mercado**
-- **SQL para Análise de Dados**
-- **Análise de Dados Com Excel e Power BI**
-- **Introdução a Modelo de Regressão Linear**
+- **Business intelligence (BI)**
+- **SQL for Data Analysis**
+- **Data Analysis with Excel and Power BI**
+- **Introduction to Linear Regression Models**
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Languages & Technologies
 
 <p align="left">
   <img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px; display: inline-block;" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/python/python-original.svg" />
@@ -42,7 +42,7 @@ Me chamo Renan Martins Braga, tenho 34 anos e sou natural de Volta Redonda/RJ. C
 <br/>
 <br/>
 
-### 📊 Estatísticas
+### 📊 Statistics
 
 <p align="center">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=renanmrbraga&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" />
