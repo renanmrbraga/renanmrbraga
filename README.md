@@ -1,6 +1,6 @@
 # Renan Braga
 
-Sou Renan Martins Braga, natural de Volta Redonda/RJ, e tenho 34 anos. Finalizei o Ensino Técnico Integrado em Informática no Colégio do Instituto Batista Americano. No momento, estou cursando Tecnologia em Sistemas de Computação na Universidade Federal Fluminense (UFF) e também estou concluindo um certificado em Cientista de Dados pela Escola DNC.
+Me chamo Renan Martins Braga, tenho 34 anos e sou natural de Volta Redonda/RJ. Concluí o Ensino Técnico Integrado em Informática no Colégio do Instituto Batista Americano. Atualmente, estou cursando Tecnologia em Sistemas de Computação na Universidade Federal Fluminense (UFF) e concluindo um certificado em Cientista de Dados na Escola DNC.
 
 <p align="left">
    <a href="https://github.com/renanmrbraga?tab=followers">
@@ -28,6 +28,7 @@ Sou Renan Martins Braga, natural de Volta Redonda/RJ, e tenho 34 anos. Finalizei
   <img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px; display: inline-block;" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/python/python-original.svg" />
   <img align="left" alt="SQL" title="SQL" width="30px" style="padding-right: 10px; display: inline-block;" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/mysql/mysql-original.svg" />
   <img align="left" alt="PowerBI" title="Power BI" width="30px" style="padding-right: 10px; display: inline-block;" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" />
+  <img align="left" alt="Excel" title="Microsoft Excel" width="30px" style="padding-right: 10px; display: inline-block;" src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" />
   <img align="left" alt="PostgreSQL" title="PostgreSQL" width="30px" style="padding-right: 10px; display: inline-block;" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/postgresql/postgresql-original.svg" />
   <img align="left" alt="Pandas" title="Pandas" width="30px" style="padding-right: 10px; display: inline-block;" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/pandas/pandas-original.svg" />
   <img align="left" alt="Matplotlib" title="Matplotlib" width="30px" style="padding-right: 10px; display: inline-block;" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/matplotlib/matplotlib-original.svg" />
