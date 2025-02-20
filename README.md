@@ -1,6 +1,6 @@
 # Renan Braga
 
-I'm Renan Martins Braga, 34 years old, from Volta Redonda/RJ. I completed a Technical Integrated Course in Information Technology at the Colégio do Instituto Batista Americano. Currently, I am pursuing a degree in Computer Systems Technology at the Universidade Federal Fluminense (UFF) and completing a Data Science certification at Escola DNC.
+I'm Renan Martins Braga, 34 years old, from Volta Redonda, Rio de Janeiro, Brazil. I completed a Technical Integrated Course in Information Technology at the Colégio do Instituto Batista Americano. Currently, I am pursuing a degree in Computer Systems Technology at the Universidade Federal Fluminense (UFF) and completing a Data Science certification at Escola DNC.
 
 <p align="left">
    <a href="https://github.com/renanmrbraga?tab=followers">
