@@ -15,7 +15,7 @@ I'm Renan Martins Braga, 34 years old, from Volta Redonda, Rio de Janeiro, Brazi
 
 ### 🏆 Certifications
 
-- **Business intelligence (BI)**
+- **Business Intelligence (BI)**
 - **SQL for Data Analysis**
 - **Data Analysis with Excel and Power BI**
 - **Introduction to Linear Regression Models**
