@@ -1,4 +1,6 @@
-# Renan Braga
+### Renan Braga
+
+---
 
 Olá, sou Renan Martins Braga. Sou Técnico em Informática, formado no Colégio do Instituto Batista Americano. Atualmente, estou cursando Tecnologia em Sistemas de Computação na Universidade Federal Fluminense (UFF) e concluindo um certificado de Cientista de Dados na Escola DNC.
 
