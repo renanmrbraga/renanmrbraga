@@ -7,16 +7,7 @@ Olá, sou Renan Martins Braga. Sou Técnico em Informática, formado no Colégio
 
 ---
 
-# 🏆 Certificações
-
-- **Inteligência de Mercado**
-- **SQL para Análise de Dados**
-- **Análise de Dados com Excel e Power BI**
-- **Introdução a Modelos de Regressão Linear**
-
----
-
-# 🤖 Linguagens & Tecnologias
+### 🤖 Linguagens & Tecnologias
 
 <p align="left">
   <img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px; display: inline-block;" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/python/python-original.svg" />
@@ -27,18 +18,27 @@ Olá, sou Renan Martins Braga. Sou Técnico em Informática, formado no Colégio
   <img align="left" alt="Pandas" title="Pandas" width="30px" style="padding-right: 10px; display: inline-block;" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/pandas/pandas-original.svg" />
   <img align="left" alt="Matplotlib" title="Matplotlib" width="30px" style="padding-right: 10px; display: inline-block;" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/matplotlib/matplotlib-original.svg" />
   <img align="left" alt="Seaborn" title="Seaborn" width="30px" style="padding-right: 10px; display: inline-block;" src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg" />
-  <img align="left" alt="Plotly" title="Plotly" width="30px" style="padding-right: 10px; display: inline-block;" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/plotly/plotly-original.svg" />
-  <img align="left" alt="Django" title="Django" width="30px" style="padding-right: 10px; display: inline-block;" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/django/django-plain.svg" />
-  <img align="left" alt="React" title="React" width="30px" style="padding-right: 10px; display: inline-block;" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/react/react-original.svg" />
-  <img align="left" alt="HTML" title="HTML" width="30px" style="padding-right: 10px; display: inline-block;" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/html5/html5-original.svg" />
-  <img align="left" alt="CSS" title="CSS" width="30px" style="padding-right: 10px; display: inline-block;" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/css3/css3-original.svg" />
-  <img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right: 10px; display: inline-block;" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/javascript/javascript-original.svg" />
-  <img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px; display: inline-block;" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/git/git-original.svg" />
+  <img alt="Plotly" title="Plotly" width="30px" style="padding-right: 10px; display: inline-block;" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/plotly/plotly-original.svg" />
+  <img alt="Django" title="Django" width="30px" style="padding-right: 10px; display: inline-block;" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/django/django-plain.svg" />
+  <img alt="React" title="React" width="30px" style="padding-right: 10px; display: inline-block;" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/react/react-original.svg" />
+  <img alt="HTML" title="HTML" width="30px" style="padding-right: 10px; display: inline-block;" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/html5/html5-original.svg" />
+  <img alt="CSS" title="CSS" width="30px" style="padding-right: 10px; display: inline-block;" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/css3/css3-original.svg" />
+  <img alt="JavaScript" title="JavaScript" width="30px" style="padding-right: 10px; display: inline-block;" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/javascript/javascript-original.svg" />
+  <img alt="Git" title="Git" width="30px" style="padding-right: 10px; display: inline-block;" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/git/git-original.svg" />
 </p>
 
 ---
 
-# 📊 Estatísticas
+### 🏆 Certificações
+
+- **Inteligência de Mercado**
+- **SQL para Análise de Dados**
+- **Análise de Dados com Excel e Power BI**
+- **Introdução a Modelos de Regressão Linear**
+
+---
+
+### 📊 Estatísticas
 
 <p align="center">
    <img height="180px" src="https://github-readme-stats.vercel.app/api?username=renanmrbraga&show_icons=true&theme=dark" />
