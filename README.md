@@ -2,20 +2,14 @@
 
 Olá, sou Renan Martins Braga. Sou Técnico em Informática, formado no Colégio do Instituto Batista Americano. Atualmente, estou cursando Tecnologia em Sistemas de Computação na Universidade Federal Fluminense (UFF) e concluindo um certificado de Cientista de Dados na Escola DNC.
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/renanmrbraga/" style="text-decoration: none !important;">
-    <img alt="LinkedIn" title="LinkedIn" style="padding-right: 10px; display: inline-block;" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:renanmbraga@outlook.com" style="text-decoration: none !important;">
-    <img alt="Email" title="Email" style="padding-right: 10px; display: inline-block;" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-perfil)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu@email.com)
 
 ---
 
 ### 🤖 Linguagens & Tecnologias
 
-<p align="center">
+<p align="lfet">
   <a href="https://www.python.org/"><img alt="Python" title="Python" width="30px" style="padding-right: 10px; display: inline-block;" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/python/python-original.svg" /></a>
   <a href="https://www.mysql.com/"><img alt="SQL" title="SQL" width="30px" style="padding-right: 10px; display: inline-block;" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/mysql/mysql-original.svg" /></a>
   <a href="https://powerbi.microsoft.com/"><img alt="PowerBI" title="Power BI" width="30px" style="padding-right: 10px; display: inline-block;" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" /></a>
@@ -49,7 +43,7 @@ Olá, sou Renan Martins Braga. Sou Técnico em Informática, formado no Colégio
 
 ### 📊 Estatísticas
 
-<p align="center">
+<p align="left">
    <img height="160px" src="https://github-readme-stats.vercel.app/api?username=renanmrbraga&show_icons=true&theme=dark&locale=pt-br" />
    <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renanmrbraga&layout=compact&langs_count=10&theme=dark&locale=pt-br" />
 </p>
