@@ -41,6 +41,6 @@ Olá, sou Renan Martins Braga. Sou Técnico em Informática, formado no Colégio
 ### 📊 Estatísticas
 
 <p align="center">
-   <img height="180px" src="https://github-readme-stats.vercel.app/api?username=renanmrbraga&show_icons=true&theme=dark" />
-   <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renanmrbraga&layout=compact&langs_count=10&theme=dark" />
+   <img height="180px" src="https://github-readme-stats.vercel.app/api?username=renanmrbraga&show_icons=true&theme=dark&locale=pt-br" />
+   <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renanmrbraga&layout=compact&langs_count=10&theme=dark&locale=pt-br" />
 </p>
