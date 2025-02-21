@@ -1,6 +1,6 @@
 # Renan Braga
 
-I'm Renan Martins Braga, from Volta Redonda, Rio de Janeiro, Brazil. I completed a Technical Integrated Course in Information Technology at the Colégio do Instituto Batista Americano. Currently, I am pursuing a degree in Computer Systems Technology at the Universidade Federal Fluminense (UFF) and completing a Data Scientist certification at Escola DNC.
+Hi, I'm Renan Martins Braga. I completed a Technical Integrated Course in Information Technology at the Colégio do Instituto Batista Americano. Currently, I am pursuing a degree in Computer Systems Technology at the Universidade Federal Fluminense (UFF) and completing a Data Scientist certification at Escola DNC.
 
 <p align="left">
    <a href="https://github.com/renanmrbraga?tab=followers">
@@ -37,14 +37,4 @@ I'm Renan Martins Braga, from Volta Redonda, Rio de Janeiro, Brazil. I completed
   <img align="left" alt="Django" title="Django" width="30px" style="padding-right: 10px; display: inline-block;" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/django/django-plain.svg" />
   <img align="left" alt="React" title="React" width="30px" style="padding-right: 10px; display: inline-block;" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/react/react-original.svg" />
   <img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px; display: inline-block;" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/git/git-original.svg" />
-</p>
-
-<br/>
-<br/>
-
-### 📊 Statistics
-
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=renanmrbraga&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renanmrbraga&theme=dark&layout=compact&custom_title=Tecnologias" />
 </p>
