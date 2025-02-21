@@ -1,6 +1,4 @@
-### Renan Braga
-
----
+# Renan Braga
 
 Olá, sou Renan Martins Braga. Sou Técnico em Informática, formado no Colégio do Instituto Batista Americano. Atualmente, estou cursando Tecnologia em Sistemas de Computação na Universidade Federal Fluminense (UFF) e concluindo um certificado de Cientista de Dados na Escola DNC.
 
@@ -9,7 +7,7 @@ Olá, sou Renan Martins Braga. Sou Técnico em Informática, formado no Colégio
 
 ---
 
-### 🏆 Certificações
+# 🏆 Certificações
 
 - **Inteligência de Mercado**
 - **SQL para Análise de Dados**
@@ -18,7 +16,7 @@ Olá, sou Renan Martins Braga. Sou Técnico em Informática, formado no Colégio
 
 ---
 
-### 🤖 Linguagens & Tecnologias
+# 🤖 Linguagens & Tecnologias
 
 <p align="left">
   <img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px; display: inline-block;" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/python/python-original.svg" />
@@ -40,7 +38,7 @@ Olá, sou Renan Martins Braga. Sou Técnico em Informática, formado no Colégio
 
 ---
 
-### 📊 Estatísticas
+# 📊 Estatísticas
 
 <p align="center">
    <img height="180px" src="https://github-readme-stats.vercel.app/api?username=renanmrbraga&show_icons=true&theme=dark" />
