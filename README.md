@@ -3,10 +3,10 @@
 Olá, sou Renan Martins Braga. Sou Técnico em Informática, formado no Colégio do Instituto Batista Americano. Atualmente, estou cursando Tecnologia em Sistemas de Computação na Universidade Federal Fluminense (UFF) e concluindo um certificado de Cientista de Dados na Escola DNC.
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/renanmrbraga/" style="text-decoration: none;">
+  <a href="https://www.linkedin.com/in/renanmrbraga/" style="text-decoration: none !important;">
     <img alt="LinkedIn" title="LinkedIn" style="padding-right: 10px; display: inline-block;" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:renanmbraga@outlook.com" style="text-decoration: none;">
+  <a href="mailto:renanmbraga@outlook.com" style="text-decoration: none !important;">
     <img alt="Email" title="Email" style="padding-right: 10px; display: inline-block;" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -33,6 +33,7 @@ Olá, sou Renan Martins Braga. Sou Técnico em Informática, formado no Colégio
   <a href="https://git-scm.com/"><img alt="Git" title="Git" width="30px" style="padding-right: 10px; display: inline-block;" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/git/git-original.svg" /></a>
 </p>
 
+
 ---
 
 ### 🏆 Certificações
@@ -41,6 +42,8 @@ Olá, sou Renan Martins Braga. Sou Técnico em Informática, formado no Colégio
 - **SQL para Análise de Dados**
 - **Análise de Dados com Excel e Power BI**
 - **Introdução a Modelos de Regressão Linear**
+
+<p></p>
 
 ---
 
