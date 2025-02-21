@@ -13,7 +13,7 @@ Sou Técnico em Informática, formado no Colégio do Instituto Batista Americano
 
 <p align="lfet">
   <a href="https://www.python.org/"><img alt="Python" title="Python" width="30px" style="padding-right: 10px; display: inline-block;" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/python/python-original.svg" /></a>
-  <a href="https://www.mysql.com/"><img alt="SQL" title="SQL" width="30px" style="padding-right: 10px; display: inline-block;" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/mysql/mysql-original.svg" /></a>
+  <a href="https://pt.wikipedia.org/wiki/SQL"><img alt="SQL" title="SQL" width="30px" style="padding-right: 10px; display: inline-block;" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/mysql/mysql-original.svg" /></a>
   <a href="https://powerbi.microsoft.com/"><img alt="PowerBI" title="Power BI" width="30px" style="padding-right: 10px; display: inline-block;" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" /></a>
   <a href="https://www.microsoft.com/en-us/microsoft-365/excel"><img alt="Excel" title="Microsoft Excel" width="30px" style="padding-right: 10px; display: inline-block;" src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" /></a>
   <a href="https://www.postgresql.org/"><img alt="PostgreSQL" title="PostgreSQL" width="30px" style="padding-right: 10px; display: inline-block;" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/postgresql/postgresql-original.svg" /></a>
