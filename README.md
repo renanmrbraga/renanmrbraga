@@ -1,28 +1,26 @@
 # Renan Braga
 
-Hi, I'm Renan Martins Braga. I completed a Technical Integrated Course in Information Technology at the Colégio do Instituto Batista Americano. Currently, I am pursuing a degree in Computer Systems Technology at the Universidade Federal Fluminense (UFF) and completing a Data Scientist certification at Escola DNC.
+Olá, sou Renan Martins Braga. Sou Técnico em Informática, formado no Colégio do Instituto Batista Americano. Atualmente, estou cursando Tecnologia em Sistemas de Computação na Universidade Federal Fluminense (UFF) e concluindo um certificado de Cientista de Dados na Escola DNC.
 
-<p align="left">
-   <a href="https://github.com/renanmrbraga?tab=followers">
-      <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/renanmrbraga?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
-   </a>
-   <a href="https://www.linkedin.com/in/renan-martins-braga/">
-      <img alt="LinkedIn" title="Connect with me on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-   </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-perfil)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:renanmbraga@outlook.com)
+
+<br>
+
+### 🏆 Certificações
 
 ---
 
-### 🏆 Certifications
+- **Inteligência de Mercado**
+- **SQL para Análise de Dados**
+- **Análise de Dados com Excel e Power BI**
+- **Introdução a Modelos de Regressão Linear**
 
-- **Business Intelligence (BI)**
-- **SQL for Data Analysis**
-- **Data Analysis with Excel and Power BI**
-- **Introduction to Linear Regression Models**
+<br>
+
+### 🤖 Linguagens & Tecnologias
 
 ---
-
-### 🤖 Languages & Technologies
 
 <p align="left">
   <img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px; display: inline-block;" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/python/python-original.svg" />
@@ -36,5 +34,20 @@ Hi, I'm Renan Martins Braga. I completed a Technical Integrated Course in Inform
   <img align="left" alt="Plotly" title="Plotly" width="30px" style="padding-right: 10px; display: inline-block;" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/plotly/plotly-original.svg" />
   <img align="left" alt="Django" title="Django" width="30px" style="padding-right: 10px; display: inline-block;" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/django/django-plain.svg" />
   <img align="left" alt="React" title="React" width="30px" style="padding-right: 10px; display: inline-block;" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/react/react-original.svg" />
+  <img align="left" alt="HTML" title="HTML" width="30px" style="padding-right: 10px; display: inline-block;" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/html5/html5-original.svg" />
+  <img align="left" alt="CSS" title="CSS" width="30px" style="padding-right: 10px; display: inline-block;" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/css3/css3-original.svg" />
+  <img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right: 10px; display: inline-block;" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/javascript/javascript-original.svg" />
   <img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px; display: inline-block;" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/git/git-original.svg" />
+</p>
+
+<br>
+<br>
+
+## 📊 Estatísticas
+
+<p style="margin-top: 0; padding-top: 0; font-size: 0; height: 0;"></p>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=renanmrbraga&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renanmrbraga&layout=compact&langs_count=10&theme=dark" />
 </p>
