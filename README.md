@@ -4,8 +4,8 @@ Olá! Me chamo Renan Martins Braga.
 
 Sou Técnico em Informática, formado no Colégio do Instituto Batista Americano. Atualmente, estou cursando Tecnologia em Sistemas de Computação na Universidade Federal Fluminense (UFF) e concluindo um certificado de Cientista de Dados na Escola DNC.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-perfil)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renanmrbraga)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:renanmbraga@outlook.com)
 
 ---
 
