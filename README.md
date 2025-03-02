@@ -9,7 +9,7 @@ Sou Técnico em Informática, formado no Colégio do Instituto Batista Americano
 
 ---
 
-## 🌟 Repositórios em Destaque
+### 🌟 Repositórios em Destaque
 
 - [data-science-auto-ml](https://github.com/renanmrbraga/data-science-auto): Estudos e experimentos.
 - [data-science-auto-ml](https://github.com/renanmrbraga/data-science-auto-ml): Estudos e experimentos com Auto Sklearn.
