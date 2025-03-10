@@ -16,7 +16,7 @@
 ### 🤖 Linguagens & Tecnologias
 
 - **Linguagens:** Python, SQL, TypeScript, JavaScript
-- **Análise de Dados:** Power BI, Pandas, NumPy, Matplotlib, Seaborn, Plotly
+- **Análise de Dados:** Excel, Power BI, Pandas, NumPy, Matplotlib, Seaborn, Plotly
 - **Banco de Dados:** PostgreSQL, MySQL
 - **Desenvolvimento Web:** Django, React, Tailwind CSS, shadcn-ui
 - **Integração e Automação:** APIs, Web Scraping, ETL
