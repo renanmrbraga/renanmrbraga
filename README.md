@@ -34,6 +34,7 @@ Sou Técnico em Informática, formado no Colégio do Instituto Batista Americano
 
 ### 🏆 Certificações
 
+- **Análise de Dados com Python**
 - **Inteligência de Mercado**
 - **SQL para Análise de Dados**
 - **Análise de Dados com Excel e Power BI**
