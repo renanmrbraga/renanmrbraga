@@ -24,8 +24,9 @@
 
 ---
 
-### 🏆 Certificações
+### 🏆 Educação & Certificações
 
+- **Técnico em Informática**
 - **Análise de Dados**
 - **Limpeza e Organização de Dados com Python**
 - **Análise de Dados com Python**
