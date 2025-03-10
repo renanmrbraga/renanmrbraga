@@ -50,11 +50,6 @@
 ✅ Backend escalável em **Django + PostgreSQL**  
 ✅ Frontend moderno em **React + TypeScript**  
 
-### 🤖 **[Automação de Coleta e Tratamento de Dados](#)**  
-✅ Pipeline de ETL para integrar múltiplas fontes de dados  
-✅ Uso de **APIs, Web Scraping e automação com Python**  
-✅ Redução de tempo manual em mais de **80%**
-
 ---
 
 ### 📊 Estatísticas
