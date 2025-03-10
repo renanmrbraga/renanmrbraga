@@ -2,7 +2,7 @@
 
 🎯 **Analista de Dados | Desenvolvedor Full Stack | Especialista em Integração de Dados**  
 
-🚀 Apaixonado por transformar dados em insights estratégicos e criar soluções tecnológicas eficientes. Tenho experiência com **Python, Power BI, SQL, Django, React, PostgreSQL e automação de processos**.  
+🚀 Apaixonado por dados, tenho experiência com **Python, Power BI, SQL, Django, React, PostgreSQL e automação de processos**.  
 
 📍 Atualmente cursando **Tecnologia em Sistemas de Computação (UFF)** e finalizando meu **certificado de Cientista de Dados (DNC)**.  
 
