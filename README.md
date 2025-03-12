@@ -46,7 +46,7 @@ Projeto avançado de Análise de Dados voltado para entender a relação entre g
 
 ## ⚽🧬 [Football Science](https://github.com/renanmrbraga/footballscience)
 
-Projeto avançado de Ciência de Dados que utiliza modelos preditivos robustos para prever o sucesso futuro dos clubes, analisando gastos, dívidas, estatísticas individuais dos jogadores e padrões que possam indicar manipulação de resultados, aplicando técnicas avançadas de Machine Learning (scikit-learn, Python e PostgreSQL).
+Projeto avançado de Ciência de Dados que utiliza modelos preditivos robustos para prever o sucesso futuro dos clubes, analisando gastos, dívidas, estatísticas individuais dos jogadores, aplicando técnicas avançadas de Machine Learning (scikit-learn, Python e PostgreSQL).
 
 ---
 
