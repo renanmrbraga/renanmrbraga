@@ -46,7 +46,7 @@ Projeto avançado de análise de dados voltado para entender a relação entre *
 
 ## ⚽🧬 [Football Science](https://github.com/renanmrbraga/footballscience)
 
-Projeto avançado de Ciência de Dados que utiliza técnicas avançadas de *Machine Learning* e modelos preditivos robustos para prever o sucesso futuro dos clubes, analisando gastos, dívidas, estatísticas individuais dos jogadores e padrões que possam indicar manipulação de resultados, aplicando bibliotecas como **scikit-learn, TensorFlow, Keras, XGBoost, LightGBM e CatBoost**.
+Projeto avançado de Ciência de Dados que utiliza técnicas avançadas de *Machine Learning* e modelos preditivos robustos para prever o sucesso futuro dos clubes, analisando gastos, dívidas e estatísticas individuais dos jogadores, aplicando bibliotecas como **scikit-learn, TensorFlow, Keras, XGBoost, LightGBM e CatBoost**.
 
 
 ---
