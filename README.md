@@ -29,7 +29,7 @@
 - **Técnico em Informática - CBB** (Concluído)
 - **Análise de Dados - DNC**
 - **Limpeza e Organização de Dados com Python - DNC**
-- **Análise de Dados com Python - DNC **
+- **Análise de Dados com Python - DNC**
 - **Inteligência de Mercado - DNC**
 - **SQL para Análise de Dados - DNC**
 - **Análise de Dados com Excel e Power BI - DNC**
