@@ -15,7 +15,7 @@ Apaixonado por dados, tenho experiência com **Python, Power BI, SQL, Excel, Pos
 ### 🤖 Linguagens & Tecnologias
 
 - **Linguagens:** Python, SQL
-- **Análise de Dados:** Excel, Power BI, Pandas, NumPy, Matplotlib, Seaborn, Plotly
+- **Análise de Dados:** Excel, Power BI, Pandas, NumPy, Matplotlib, Seaborn, Plotly, Polars, Dask, Vaex, SciPy, Statsmodels
 - **Banco de Dados:** PostgreSQL, MySQL
 - **Integração e Outros:** APIs, Web Scraping, ETL, Git, VSCode, Jupyter Notebook, Streamlit
 
