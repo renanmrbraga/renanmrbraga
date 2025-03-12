@@ -1,6 +1,6 @@
 # **Renan Braga**
 
-🎯 **Analista de Dados | Desenvolvedor Full Stack | Especialista em Integração de Dados**  
+🎯 **Analista de Dados | Especialista em Integração de Dados**  
 
 🚀 Apaixonado por dados, tenho experiência com **Python, Power BI, SQL, Django, React, PostgreSQL e automação de processos**.  
 
@@ -39,17 +39,11 @@
 
 ---  
 
-## 📂 **Projetos em Destaque**  
+## Projetos
 
-### 📊 **[Dashboard de Adesão, Inadimplência e Retenção](#)**  
-✅ Análise de clientes ativos e cancelados para otimizar campanhas comerciais  
-✅ Banco de dados otimizado no **PostgreSQL** e visualização em **Power BI**  
-✅ Automação de relatórios usando **Python e DAX**  
+### [Football Science](https://github.com/renanmrbraga/footballscience)
 
-### 🏥 **[CRM Full Stack para Gestão de Planos de Saúde](#)**  
-✅ Sistema completo para gestão de clientes, consultas e pagamentos  
-✅ Backend escalável em **Django + PostgreSQL**  
-✅ Frontend moderno em **React + TypeScript**  
+Projeto de análise de dados focado em investigar a relação entre **gastos, dívidas e sucesso esportivo** dos 12 maiores clubes brasileiros nos últimos 10 anos, utilizando dashboards interativos (**Power BI ou Streamlit + Python**) para responder questões críticas sobre finanças e desempenho esportivo dos clubes.
 
 ---
 
