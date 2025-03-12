@@ -2,7 +2,7 @@
 
 🎯 **Analista de Dados | Especialista em Integração de Dados**  
 
-🚀 Apaixonado por dados, tenho experiência com **Python, Power BI, SQL, Django, React, PostgreSQL e automação de processos**.  
+🚀 Apaixonado por dados, tenho experiência com **Python, Power BI, SQL, Excel, PostgreSQL e automação de processos**.  
 
 📍 Atualmente cursando **Tecnologia em Sistemas de Computação (UFF)** e finalizando meu **certificado de Cientista de Dados (DNC)**.  
 
