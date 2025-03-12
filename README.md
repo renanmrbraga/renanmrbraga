@@ -41,11 +41,11 @@ Apaixonado por dados, tenho experiência com **Python, Power BI, SQL, Excel, Pos
 
 ## ⚽📊 [Football Analysis](https://github.com/renanmrbraga/footballanalysis)
 
-Projeto avançado de Análise de Dados voltado para entender a relação entre **gastos financeiros, dívidas e sucesso esportivo** de todos os clubes da Série A, do Campeonato Brasileiro, nos últimos 10 anos. Utiliza dashboards interativos (**Power BI e Streamlit + Python**) para responder questões críticas sobre a gestão financeira e desempenho esportivo dos clubes.
+Projeto avançado de Análise de Dados voltado que vai entender a relação entre **gastos financeiros, dívidas e sucesso esportivo** de todos os clubes da Série A, do Campeonato Brasileiro, nos últimos 10 anos. Utiliza dashboards interativos (**Power BI e Streamlit + Python**) para responder questões críticas sobre a gestão financeira e desempenho esportivo dos clubes.
 
 ## ⚽🧬 [Football Science](https://github.com/renanmrbraga/footballscience)
 
-Projeto avançado de Ciência de Dados que utiliza técnicas de *Machine Learning* e modelos preditivos robustos para prever o sucesso futuro dos clubes, analisando gastos, dívidas e estatísticas individuais dos jogadores, aplicando bibliotecas como **scikit-learn, TensorFlow, Keras, XGBoost, LightGBM e CatBoost**.
+Projeto avançado de Ciência de Dados que vai utilizar técnicas de *Machine Learning* e modelos preditivos robustos para prever o sucesso futuro dos clubes, analisando gastos, dívidas e estatísticas individuais dos jogadores, aplicando bibliotecas como **scikit-learn, TensorFlow, Keras, XGBoost, LightGBM e CatBoost**.
 
 
 ---
