@@ -26,7 +26,7 @@
 
 - **Tecnologia em Sistemas de Computação - UFF** (Em andamento)
 - **Cientista de Dados - DNC** (Concluindo)
-- **Técnico em Informática - CBB** (Concluído)
+- **Técnico Integrado, Informática - CBB** (Concluído)
 - **Análise de Dados - DNC**
 - **Limpeza e Organização de Dados com Python - DNC**
 - **Análise de Dados com Python - DNC**
