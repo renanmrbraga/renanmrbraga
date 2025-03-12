@@ -18,8 +18,7 @@
 - **Linguagens:** Python, SQL
 - **Análise de Dados:** Excel, Power BI, Pandas, NumPy, Matplotlib, Seaborn, Plotly
 - **Banco de Dados:** PostgreSQL, MySQL
-- **Integração e Automação:** APIs, Web Scraping, ETL
-- **Ferramentas:** Git, VSCode, Jupyter Notebook
+- **Integração e Outros:** APIs, Web Scraping, ETL, Git, VSCode, Jupyter Notebook, Streamlit
 
 ---
 
