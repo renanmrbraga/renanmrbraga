@@ -42,11 +42,11 @@
 
 ## ⚽📊 [Football Analysis](https://github.com/renanmrbraga/footballanalysis)
 
-Projeto de análise de dados voltado para entender a relação entre **gastos financeiros, dívidas e sucesso esportivo** dos 12 maiores clubes brasileiros nos últimos 10 anos. Usa dashboards interativos (**Power BI ou Streamlit + Python**) para responder questões críticas sobre a gestão financeira e desempenho esportivo dos clubes.
+Projeto avançado de Análise de Dados voltado para entender a relação entre gastos financeiros, dívidas e sucesso esportivo dos 12 maiores clubes brasileiros nos últimos 10 anos. Utiliza dashboards interativos (Power BI ou Streamlit + Python) para responder questões críticas sobre a gestão financeira e desempenho esportivo dos clubes.
 
 ## ⚽🧬 [Football Science](https://github.com/renanmrbraga/footballscience)
 
-Projeto avançado de Ciência de Dados que utiliza modelos preditivos robustos para prever o sucesso futuro dos clubes, analisando gastos, dívidas, estatísticas individuais dos jogadores e padrões que possam indicar manipulação de resultados, aplicando técnicas avançadas de Machine Learning (**scikit-learn, Python e PostgreSQL**).
+Projeto avançado de Ciência de Dados que utiliza modelos preditivos robustos para prever o sucesso futuro dos clubes, analisando gastos, dívidas, estatísticas individuais dos jogadores e padrões que possam indicar manipulação de resultados, aplicando técnicas avançadas de Machine Learning (scikit-learn, Python e PostgreSQL).
 
 ---
 
