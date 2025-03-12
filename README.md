@@ -39,11 +39,15 @@
 
 ---  
 
-## Projetos
+# Projetos
 
-### [Football Science](https://github.com/renanmrbraga/footballscience)
+## [Football Analysis](https://github.com/renanmrbraga/footballanalysis)
 
-Projeto de análise de dados focado em investigar a relação entre **gastos, dívidas e sucesso esportivo** dos 12 maiores clubes brasileiros nos últimos 10 anos, utilizando dashboards interativos (**Power BI ou Streamlit + Python**) para responder questões críticas sobre finanças e desempenho esportivo dos clubes.
+Análise de dados voltada para entender a relação entre **gastos financeiros, dívidas e sucesso esportivo** dos 12 maiores clubes brasileiros nos últimos 10 anos. Usa dashboards interativos (**Power BI ou Streamlit + Python**) para responder questões críticas sobre a gestão financeira e desempenho esportivo dos clubes.
+
+## [Football Science](https://github.com/renanmrbraga/footballscience)
+
+Projeto avançado de ciência de dados que amplia o escopo do Football Analysis, adicionando um **modelo preditivo robusto**, que prevê o desempenho futuro dos clubes, considerando não só dados financeiros e esportivos, mas também informações detalhadas dos atletas, estatísticas individuais, desempenho nas competições, e a possibilidade de manipulação de resultados, utilizando técnicas avançadas de Machine Learning (**scikit-learn, Python e PostgreSQL**).
 
 ---
 
