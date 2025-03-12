@@ -24,14 +24,15 @@
 
 ### 🏆 Educação & Certificações
 
-- **Técnico em Informática**
-- **Análise de Dados**
-- **Limpeza e Organização de Dados com Python**
-- **Análise de Dados com Python**
-- **Inteligência de Mercado**
-- **SQL para Análise de Dados**
-- **Análise de Dados com Excel e Power BI**
-- **Introdução a Análise de Dados**
+- **Tecnologia em Sistemas de Computação - UFF** (Em andamento)
+- **Cientista de Dados - DNC** (Concluindo)
+- **Técnico em Informática - CBB** (Concluído)
+- **Análise de Dados - DNC**
+- **Limpeza e Organização de Dados com Python - DNC**
+- **Análise de Dados com Python - DNC **
+- **Inteligência de Mercado - DNC**
+- **SQL para Análise de Dados - DNC**
+- **Análise de Dados com Excel e Power BI - DNC**
 
 <p></p>
 
