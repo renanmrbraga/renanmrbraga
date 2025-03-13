@@ -1,58 +1,70 @@
 # **Renan Braga**
 
 🎯 **Analista de Dados | Especialista em Integração & Automação**  
-Apaixonado por dados, tenho experiência com **Python, Power BI, SQL, Excel, PostgreSQL e automação de processos**.  
-
-📍 Atualmente cursando **Tecnologia em Sistemas de Computação (UFF)** e finalizando meu **certificado de Cientista de Dados (DNC)**.  
-
-💡 Meu foco é desenvolver **soluções escaláveis e automatizadas** para análise de dados, integração entre sistemas e otimização de processos de negócios.
+Apaixonado por dados e pela criação de soluções escaláveis. Tenho sólida experiência em **Python, Power BI, SQL, Excel, PostgreSQL** e em **otimizar processos de negócios** por meio de integrações e automações.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renanmrbraga)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:renanmbraga@outlook.com)
 
 ---
 
-### 🤖 Linguagens & Tecnologias
+## 🚀 Sobre mim
 
-- **Linguagens:** Python, SQL  
-- **Análise de Dados:** Pandas, NumPy, Power BI, Excel, Matplotlib, Seaborn, Plotly, SciPy, Statsmodels, Polars, Dask, Vaex  
-- **Banco de Dados:** PostgreSQL, MySQL  
-- **Integração e Outros:** Git, VSCode, Jupyter Notebook, APIs, Web Scraping, ETL, Streamlit, Airflow, Docker  
+- 📍 **Formação:** Cursando **Tecnologia em Sistemas de Computação (UFF)** e finalizando o **certificado de Cientista de Dados (DNC)**.  
+- 💡 **Objetivo Profissional:** Desenvolver **soluções escaláveis e automatizadas** para análise de dados, integração entre sistemas e otimização de processos.  
+- 🌱 **Em constante evolução:** Sempre buscando novos desafios, técnicas e tecnologias para elevar meus projetos a outro patamar.
 
 ---
 
-### 🏆 Educação & Certificações
+## 🔧 Tecnologias e Ferramentas
 
-- **Tecnologia em Sistemas de Computação - UFF** (Em andamento)
-- **Cientista de Dados - DNC** (Concluindo)
-- **Técnico Integrado, Informática - CBB**
-- **Análise de Dados - DNC**
-- **Limpeza e Organização de Dados com Python - DNC**
-- **Análise de Dados com Python - DNC**
-- **Inteligência de Mercado - DNC**
-- **SQL para Análise de Dados - DNC**
+- **Linguagens:**  
+  Python, SQL  
+- **Análise de Dados:**  
+  Pandas, NumPy, Power BI, Excel, Matplotlib, Seaborn, Plotly, SciPy, Statsmodels, Polars, Dask, Vaex  
+- **Banco de Dados:**  
+  PostgreSQL, MySQL  
+- **Integração & Automação:**  
+  Git, VSCode, Jupyter Notebook, APIs, Web Scraping, ETL, Streamlit, Airflow, Docker  
+
+---
+
+## 📚 Educação & Certificações
+
+- **Tecnologia em Sistemas de Computação - UFF** (em andamento)  
+- **Cientista de Dados - DNC** (concluindo)  
+- **Técnico Integrado em Informática - CBB**  
+- **Análise de Dados - DNC**  
+- **Limpeza e Organização de Dados com Python - DNC**  
+- **Análise de Dados com Python - DNC**  
+- **Inteligência de Mercado - DNC**  
+- **SQL para Análise de Dados - DNC**  
 - **Análise de Dados com Excel e Power BI - DNC**
 
-<p></p>
+---
 
----  
+## ⚽ Projetos em Destaque
 
-# Projetos
+### [Football Analysis](https://github.com/renanmrbraga/footballanalysis)
+Análise de dados focada em entender a relação entre **investimentos financeiros, dívidas e sucesso esportivo** nos clubes da Série A do Campeonato Brasileiro nos últimos 10 anos. Inclui dashboards interativos em **Power BI** e aplicações em **Streamlit + Python** para responder questões críticas sobre gestão financeira e desempenho esportivo.
 
-## ⚽📊 [Football Analysis](https://github.com/renanmrbraga/footballanalysis)
-
-Projeto avançado de Análise de Dados que vai entender a relação entre **gastos financeiros, dívidas e sucesso esportivo** de todos os clubes da Série A, do Campeonato Brasileiro, nos últimos 10 anos. Vai utilizar dashboards interativos (**Power BI e Streamlit + Python**) para responder questões críticas sobre a gestão financeira e desempenho esportivo dos clubes.
-
-## ⚽🧬 [Football Science](https://github.com/renanmrbraga/footballscience)
-
-Projeto avançado de Ciência de Dados que vai utilizar técnicas de *Machine Learning* e modelos preditivos robustos para prever o sucesso futuro dos clubes, analisando gastos, dívidas e estatísticas individuais dos jogadores, aplicando bibliotecas como **scikit-learn, TensorFlow, Keras, XGBoost, LightGBM e CatBoost**.
-
+### [Football Science](https://github.com/renanmrbraga/footballscience)
+Aplicação de técnicas de **Machine Learning** para prever o sucesso futuro dos clubes, levando em conta gastos, dívidas e estatísticas de jogadores. O projeto explora bibliotecas como **scikit-learn, TensorFlow, Keras, XGBoost, LightGBM e CatBoost**, além de abordar todo o ciclo de **Ciência de Dados** (coleta, limpeza, modelagem e avaliação).
 
 ---
 
-### 📊 Estatísticas
+## 📈 Estatísticas
 
 <p align="left">
-   <img height="160px" src="https://github-readme-stats.vercel.app/api?username=renanmrbraga&show_icons=true&theme=dark&locale=pt-br" />
-   <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renanmrbraga&layout=compact&langs_count=10&theme=dark&locale=pt-br" />
+   <img height="160px" src="https://github-readme-stats.vercel.app/api?username=renanmrbraga&show_icons=true&theme=dark&locale=pt-br" alt="Status do GitHub de Renan" />
+   <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renanmrbraga&layout=compact&langs_count=10&theme=dark&locale=pt-br" alt="Linguagens mais utilizadas" />
 </p>
+
+---
+
+## 🤝 Vamos conversar?
+
+**Estou aberto a oportunidades e colaborações**. Caso queira discutir sobre projetos, vagas ou qualquer outra iniciativa, entre em contato:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renanmrbraga)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:renanmbraga@outlook.com)
