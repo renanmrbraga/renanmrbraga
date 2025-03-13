@@ -25,7 +25,9 @@ Apaixonado por dados e pela criação de soluções escaláveis. Tenho sólida e
 - **Banco de Dados:**  
   PostgreSQL, MySQL  
 - **Integração & Automação:**  
-  Git, VSCode, Jupyter Notebook, APIs, Web Scraping, ETL, Streamlit, Airflow, Docker  
+  Git, VSCode, Jupyter Notebook, ETL, Streamlit, Airflow, Docker  
+- **Web Scraping & Coleta de Dados:**  
+  Requests, Beautiful Soup, Selenium, APIs
 
 ---
 
