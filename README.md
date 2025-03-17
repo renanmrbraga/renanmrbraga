@@ -47,6 +47,9 @@ Apaixonado por dados e pela criação de soluções escaláveis. Tenho sólida e
 
 ## ⚽ Projetos em Destaque
 
+### [Chatbot-ML](https://github.com/renanmrbraga/chatbot-ml)  
+Desenvolvimento de um **chatbot inteligente** para suporte interno de um time comercial, especializado em **infraestrutura, PPPs e concessões**. Utiliza técnicas avançadas de **Processamento de Linguagem Natural (NLP)** e integrações para fornecer respostas rápidas e precisas sobre **políticos locais, projetos ativos, contratos e dados técnicos**. Implementado com **Python, Streamlit e APIs**, garantindo escalabilidade e eficiência na busca por informações estratégicas.
+
 ### [Football Analysis](https://github.com/renanmrbraga/footballanalysis)
 Análise de dados focada em entender a relação entre **investimentos financeiros, dívidas e sucesso esportivo** nos clubes da Série A do Campeonato Brasileiro nos últimos 10 anos. Inclui dashboards interativos em **Power BI** e aplicações em **Streamlit + Python** para responder questões críticas sobre gestão financeira e desempenho esportivo.
 
