@@ -60,9 +60,9 @@ Aplicação de técnicas de **Machine Learning** para prever o sucesso futuro do
 
 ## 📈 Estatísticas
 
-<p align="left">
-   <img height="160px" src="https://github-readme-stats.vercel.app/api?username=renanmrbraga&show_icons=true&theme=dark&locale=pt-br" alt="Status do GitHub de Renan" />
-   <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renanmrbraga&layout=compact&langs_count=10&theme=dark&locale=pt-br" alt="Linguagens mais utilizadas" />
+<p align="left" style="display: flex; gap: 10px;">
+   <img height="160px" style="border-radius: 10px;" src="https://github-readme-stats.vercel.app/api?username=renanmrbraga&show_icons=true&theme=dark&locale=pt-br" alt="Status do GitHub de Renan" />
+   <img height="160px" style="border-radius: 10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renanmrbraga&layout=compact&langs_count=10&theme=dark&locale=pt-br" alt="Linguagens mais utilizadas" />
 </p>
 
 ---
