@@ -1,6 +1,6 @@
 # **Renan Braga**
 
-🎯 **Analista de Dados | Especialista em Integração & Automação**  
+**Analista de Dados | Especialista em Integração & Automação**  
 Apaixonado por dados e pela criação de soluções escaláveis. Tenho sólida experiência em **Python, Power BI, SQL, Excel, PostgreSQL** e em **otimizar processos de negócios** por meio de integrações e automações.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renanmrbraga)
@@ -8,15 +8,15 @@ Apaixonado por dados e pela criação de soluções escaláveis. Tenho sólida e
 
 ---
 
-## 🚀 Sobre mim
+## Sobre mim
 
-- 📍 **Formação:** Cursando **Tecnologia em Sistemas de Computação (UFF)** e finalizando o **certificado de Cientista de Dados (DNC)**.  
-- 💡 **Objetivo Profissional:** Desenvolver **soluções escaláveis e automatizadas** para análise de dados, integração entre sistemas e otimização de processos.  
-- 🌱 **Em constante evolução:** Sempre buscando novos desafios, técnicas e tecnologias para elevar meus projetos a outro patamar.
+- **Formação:** Cursando **Tecnologia em Sistemas de Computação (UFF)** e finalizando o **certificado de Cientista de Dados (DNC)**.  
+- **Objetivo Profissional:** Desenvolver **soluções escaláveis e automatizadas** para análise de dados, integração entre sistemas e otimização de processos.  
+- **Em constante evolução:** Sempre buscando novos desafios, técnicas e tecnologias para elevar meus projetos a outro patamar.
 
 ---
 
-## 🔧 Tecnologias e Ferramentas
+## Tecnologias e Ferramentas
 
 - **Linguagens:**  
   Python, SQL  
@@ -31,7 +31,7 @@ Apaixonado por dados e pela criação de soluções escaláveis. Tenho sólida e
 
 ---
 
-## 📚 Educação & Certificações
+## Educação & Certificações
 
 - **Tecnologia em Sistemas de Computação - UFF** (em andamento)  
 - **Cientista de Dados - DNC** (concluindo)  
@@ -45,7 +45,7 @@ Apaixonado por dados e pela criação de soluções escaláveis. Tenho sólida e
 
 ---
 
-## ⚽ Projetos em Destaque
+## Projetos em Destaque
 
 ### [Chatbot-ML](https://github.com/renanmrbraga/chatbot-ml)  
 Desenvolvimento de um **chatbot inteligente** para suporte interno de um time comercial, especializado em **infraestrutura, PPPs e concessões**. Utiliza técnicas avançadas de **Processamento de Linguagem Natural (NLP)** e integrações para fornecer respostas rápidas e precisas sobre **políticos locais, projetos ativos, contratos e dados técnicos**. Implementado com **Python, Streamlit e APIs**, garantindo escalabilidade e eficiência na busca por informações estratégicas.
@@ -58,7 +58,7 @@ Aplicação de técnicas de **Machine Learning** para prever o sucesso futuro do
 
 ---
 
-## 📈 Estatísticas
+## Estatísticas
 
 <p align="left" style="display: flex; gap: 10px;">
    <img height="160px" style="border-radius: 10px;" src="https://github-readme-stats.vercel.app/api?username=renanmrbraga&show_icons=true&theme=dark&locale=pt-br" alt="Status do GitHub de Renan" />
@@ -67,7 +67,7 @@ Aplicação de técnicas de **Machine Learning** para prever o sucesso futuro do
 
 ---
 
-## 🤝 Vamos conversar?
+## Vamos conversar?
 
 **Estou aberto a oportunidades e colaborações**. Caso queira discutir sobre projetos, vagas ou qualquer outra iniciativa, entre em contato:
 
