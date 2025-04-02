@@ -45,16 +45,6 @@ Apaixonado por dados e pela criação de soluções escaláveis. Tenho sólida e
 
 ---
 
-## Projetos em Destaque
-
-### [Football Analysis](https://github.com/renanmrbraga/footballanalysis)
-Análise de dados focada em entender a relação entre **investimentos financeiros, dívidas e sucesso esportivo** nos clubes da Série A do Campeonato Brasileiro nos últimos 10 anos. Inclui dashboards interativos em **Power BI** e aplicações em **Streamlit + Python** para responder questões críticas sobre gestão financeira e desempenho esportivo.
-
-### [Football Science](https://github.com/renanmrbraga/footballscience)
-Aplicação de técnicas de **Machine Learning** para prever o sucesso futuro dos clubes, levando em conta gastos, dívidas e estatísticas de jogadores. O projeto explora bibliotecas como **scikit-learn, TensorFlow, Keras, XGBoost, LightGBM e CatBoost**, além de abordar todo o ciclo de **Ciência de Dados** (coleta, limpeza, modelagem e avaliação).
-
----
-
 ## Estatísticas
 
 <p align="left" style="display: flex; gap: 10px;">
