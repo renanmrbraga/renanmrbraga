@@ -10,7 +10,6 @@ Apaixonado por dados e pela criação de soluções escaláveis. Tenho sólida e
 
 ## Sobre mim
 
-- **Formação:** Cursando **Tecnologia em Sistemas de Computação (UFF)** e finalizando o **certificado de Cientista de Dados (DNC)**.  
 - **Objetivo Profissional:** Desenvolver **soluções escaláveis e automatizadas** para análise de dados, integração entre sistemas e otimização de processos.  
 - **Em constante evolução:** Sempre buscando novos desafios, técnicas e tecnologias para elevar meus projetos a outro patamar.
 
