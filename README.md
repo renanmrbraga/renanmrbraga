@@ -1,69 +1,63 @@
 # **Renan Braga**
 
-**Analista de Dados | Especialista em Integração & Automação**  
-Apaixonado por dados e pela criação de soluções escaláveis. Tenho sólida experiência em **Python, Power BI, SQL, Excel, PostgreSQL** e em **otimizar processos de negócios** por meio de integrações e automações.
+**Data Analyst | Integration & Automation Specialist**  
+Passionate about data and scalable solutions. Strong experience in **Python, Power BI, SQL, Excel, PostgreSQL** and **business process optimization** through automation and system integration.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renanmrbraga)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-web-eosin-three.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renanmrbraga)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:renanmbraga@outlook.com)
 
 ---
 
-## Sobre mim
+## About Me
 
-- **Objetivo Profissional:** Desenvolver **soluções escaláveis e automatizadas** para análise de dados, integração entre sistemas e otimização de processos.  
-- **Em constante evolução:** Sempre buscando novos desafios, técnicas e tecnologias para elevar meus projetos a outro patamar.
-
----
-
-## Portfólio Online
-
-Confira meu portfólio profissional com projetos focados em IA, automação, ciência e análise de dados:
-
-👉 [Acessar Portfólio](https://portfolio-web-eosin-three.vercel.app)
+- **Career Objective:** Build **scalable and automated solutions** for data analysis, system integration, and business process optimization.  
+- **Always evolving:** Constantly seeking new challenges, tools, and technologies to take my projects to the next level.
 
 ---
 
-## Tecnologias e Ferramentas
+## Tech Stack & Tools
 
-- **Linguagens:**  
+- **Languages:**  
   Python, SQL  
-- **Análise de Dados:**  
+- **Data Analysis:**  
   Pandas, NumPy, Power BI, Excel, Matplotlib, Seaborn, Plotly, SciPy, Statsmodels, Polars, Dask, Vaex  
-- **Banco de Dados:**  
+- **Databases:**  
   PostgreSQL, MySQL  
-- **Integração & Automação:**  
+- **Integration & Automation:**  
   Git, VSCode, Jupyter Notebook, ETL, Streamlit, Airflow, Docker  
-- **Web Scraping & Coleta de Dados:**  
+- **Web Scraping & Data Collection:**  
   Requests, Beautiful Soup, Selenium, APIs
 
 ---
 
-## Educação & Certificações
+## Education & Certifications
 
-- **Tecnologia em Sistemas de Computação - UFF** (em andamento)  
-- **Cientista de Dados - DNC** (concluindo)  
-- **Técnico Integrado em Informática - CBB**  
-- **Análise de Dados - DNC**  
-- **Limpeza e Organização de Dados com Python - DNC**  
-- **Análise de Dados com Python - DNC**  
-- **Inteligência de Mercado - DNC**  
-- **SQL para Análise de Dados - DNC**  
-- **Análise de Dados com Excel e Power BI - DNC**
+- **Technology in Computer Systems - UFF** *(in progress)*  
+- **Data Science - DNC** *(near completion)*  
+- **Technical in Informatics - CBB**  
+- **Data Analysis - DNC**  
+- **Data Cleaning and Organization with Python - DNC**  
+- **Data Analysis with Python - DNC**  
+- **Business Intelligence - DNC**  
+- **SQL for Data Analysis - DNC**  
+- **Data Analysis with Excel & Power BI - DNC**
 
 ---
 
-## Estatísticas
+## GitHub Stats
 
 <p align="left" style="display: flex; gap: 10px;">
-   <img height="160px" style="border-radius: 10px;" src="https://github-readme-stats.vercel.app/api?username=renanmrbraga&show_icons=true&theme=dark&locale=pt-br" alt="Status do GitHub de Renan" />
-   <img height="160px" style="border-radius: 10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renanmrbraga&layout=compact&langs_count=10&theme=dark&locale=pt-br" alt="Linguagens mais utilizadas" />
+   <img height="160px" style="border-radius: 10px;" src="https://github-readme-stats.vercel.app/api?username=renanmrbraga&show_icons=true&theme=dark&locale=en" alt="Renan's GitHub Stats" />
+   <img height="160px" style="border-radius: 10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renanmrbraga&layout=compact&langs_count=10&theme=dark&locale=en" alt="Top Languages Used" />
 </p>
 
 ---
 
-## Vamos conversar?
+## Let's Connect
 
-**Estou aberto a oportunidades e colaborações**. Caso queira discutir sobre projetos, vagas ou qualquer outra iniciativa, entre em contato:
+**I'm open to opportunities and collaborations.** If you’d like to talk about projects, roles, or new ideas:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renanmrbraga)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-web-eosin-three.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renanmrbraga)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:renanmbraga@outlook.com)
