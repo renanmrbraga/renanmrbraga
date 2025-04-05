@@ -1,7 +1,7 @@
 # **Renan Braga**
 
 **Data Analyst | Integration & Automation Specialist**  
-Passionate about data and scalable solutions. Strong experience in **Python, Power BI, SQL, Excel, PostgreSQL** and **business process optimization** through automation and system integration.
+Passionate about data and scalable solutions. Strong experience in **AI, Python, Power BI, SQL, Excel, PostgreSQL** and **business process optimization** through automation and system integration.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-web-eosin-three.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renanmrbraga)  
