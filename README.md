@@ -15,7 +15,7 @@ Apaixonado por dados e pela criação de soluções escaláveis. Tenho sólida e
 
 ---
 
-## 🌐 Portfólio Online
+## Portfólio Online
 
 Confira meu portfólio profissional com projetos focados em IA, automação, ciência e análise de dados:
 
