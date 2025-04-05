@@ -3,9 +3,17 @@
 **Data Analyst | Integration & Automation Specialist**  
 Passionate about data and scalable solutions. Strong experience in **AI, Python, Power BI, SQL, Excel, PostgreSQL** and **business process optimization** through automation and system integration.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-web-eosin-three.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renanmrbraga)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:renanmbraga@outlook.com)
+<p align="left">
+  <a href="https://portfolio-web-eosin-three.vercel.app" target="_blank">
+    <img alt="Portfolio" src="https://img.shields.io/badge/▲%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/renanmrbraga" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:renanmbraga@outlook.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
