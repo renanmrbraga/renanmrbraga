@@ -15,6 +15,14 @@ Apaixonado por dados e pela criação de soluções escaláveis. Tenho sólida e
 
 ---
 
+## 🌐 Portfólio Online
+
+Confira meu portfólio profissional com projetos focados em IA, automação, ciência e análise de dados:
+
+👉 [Acessar Portfólio](https://portfolio-web-eosin-three.vercel.app)
+
+---
+
 ## Tecnologias e Ferramentas
 
 - **Linguagens:**  
