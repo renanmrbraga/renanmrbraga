@@ -25,7 +25,7 @@ I build intelligent and scalable data solutions using Python, SQL and automation
   Pandas, NumPy, Polars, Dask, Vaex, SciPy, Statsmodels
 
 - **Visualization & Storytelling**  
-  Streamlit, Power BI, Metabase, ECharts, Plotly, Matplotlib, Seaborn
+  Streamlit, Power BI, Excel, Metabase, ECharts, Plotly, Matplotlib, Seaborn
 
 - **Databases**  
   PostgreSQL, MongoDB, Pinecone
