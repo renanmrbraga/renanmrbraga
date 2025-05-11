@@ -11,7 +11,9 @@ I transform raw data into intelligent solutions — with code, strategy, and obs
 
 ## About Me
 
-I'm a Data Scientist obsessed with turning complexity into clarity. I build scalable, automated systems that connect data, APIs, and intelligence to solve real-world problems. From scraping massive datasets to serving insights via dashboards or chatbots — I make data useful and beautiful.
+I'm a Data Scientist obsessed with turning complexity into clarity.  
+I build scalable, automated systems that connect data, APIs, and intelligence to solve real-world problems.  
+From scraping massive datasets to serving insights via dashboards or chatbots — I make data useful and beautiful.
 
 ---
 
@@ -31,6 +33,22 @@ I'm a Data Scientist obsessed with turning complexity into clarity. I build scal
 
 - **Dev & Ops**  
   Docker, FastAPI, Git, Jupyter, VSCode
+
+---
+
+## Featured Projects
+
+- [**Portfólio Profissional – Web Futurista com React + Tailwind**](https://github.com/renanmrbraga/portfolio-web)  
+  Website multilíngue com dark mode, i18n e foco em alto impacto visual.  
+  Construído com Vite, React, TypeScript, Tailwind, deployado via GitHub Pages.
+
+- [**Professional Analyst – Chatbot Inteligente com Dados Públicos**](https://github.com/renanmrbraga/chatbot-llm)  
+  Sistema conversacional que responde perguntas sobre municípios brasileiros usando dados oficiais (IBGE, INEP, FNDE).  
+  Arquitetura RAG com FastAPI, PostgreSQL, MongoDB, Pinecone e frontend em React.
+
+- [**Football Science – Análise Preditiva de Clubes da Série A**](https://github.com/renanmrbraga/football-science)  
+  Scraping automatizado, machine learning e dashboards interativos com Streamlit + ECharts.  
+  Foco em 10 anos de desempenho técnico, financeiro e tático dos clubes.
 
 ---
 
