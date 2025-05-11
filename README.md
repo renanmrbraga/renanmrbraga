@@ -1,6 +1,6 @@
 # **Renan Braga**
 
-**Data Analyst | Integration & Automation Specialist**  
+**Data Scientist | Integration & Automation Specialist**  
 Passionate about data and scalable solutions. Strong experience in **AI, Python, Power BI, SQL, Excel, PostgreSQL** and **business process optimization** through automation and system integration.
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:renanmbraga@outlook.com)
