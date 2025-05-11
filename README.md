@@ -1,7 +1,7 @@
 # **Renan Braga**
 
 **Data Scientist | Integration & Automation Specialist**  
-Passionate about data and scalable solutions. Strong experience in **AI, Python, Power BI, SQL, Excel, PostgreSQL** and **business process optimization** through automation and system integration.
+Passionate about data and scalable solutions. Strong experience in **AI, Python, SQL, Power BI, Excel** and **business process optimization** through automation and system integration.
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:renanmbraga@outlook.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-333333?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-web-eosin-three.vercel.app)
@@ -18,16 +18,23 @@ Passionate about data and scalable solutions. Strong experience in **AI, Python,
 
 ## Tech Stack & Tools
 
-- **Languages:**  
-  Python, SQL  
-- **Data Analysis:**  
-  Pandas, NumPy, Power BI, Excel, Matplotlib, Seaborn, Plotly, SciPy, Statsmodels, Polars, Dask, Vaex  
-- **Databases:**  
-  PostgreSQL, MySQL  
-- **Integration & Automation:**  
-  Git, VSCode, Jupyter Notebook, ETL, Streamlit, Airflow, Docker  
-- **Web Scraping & Data Collection:**  
-  Requests, Beautiful Soup, Selenium, APIs
+- **Languages & Querying**  
+  Python, SQL, TypeScript
+
+- **Data Manipulation & Analysis**  
+  Pandas, NumPy, Polars, Dask, Vaex, SciPy, Statsmodels
+
+- **Visualization & Storytelling**  
+  Streamlit, Power BI, Metabase, ECharts, Plotly, Matplotlib, Seaborn
+
+- **Databases**  
+  PostgreSQL, MongoDB, Pinecone
+
+- **Data Collection & Integration**  
+  APIs, Requests, BeautifulSoup, Selenium
+
+- **Dev & Ops**  
+  Git, Docker, Jupyter, VSCode
 
 ---
 
