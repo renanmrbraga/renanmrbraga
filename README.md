@@ -1,7 +1,7 @@
 # **Renan Braga**
 
 **Data Scientist | AI & Automation Specialist**  
-I transform raw data into intelligent solutions — with code, strategy, and obsession for efficiency.
+I transform raw data into actionable insights—with sharp code, clear strategy, and relentless efficiency.
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:renanmbraga@outlook.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-333333?style=for-the-badge&logo=vercel&logoColor=white)](https://renanmrbraga.github.io)
@@ -13,7 +13,7 @@ I transform raw data into intelligent solutions — with code, strategy, and obs
 
 I'm a Data Scientist obsessed with turning complexity into clarity.  
 I build scalable, automated systems that connect data, APIs, and intelligence to solve real-world problems.  
-From scraping massive datasets to serving insights via dashboards or chatbots — I make data useful and beautiful.
+From scraping massive datasets to serving insights via dashboards or chatbots—I make data useful and beautiful.
 
 ---
 
@@ -38,31 +38,31 @@ From scraping massive datasets to serving insights via dashboards or chatbots �
 
 ## Featured Projects
 
-- [**Portfólio Profissional – Web Futurista com React + Tailwind**](https://github.com/renanmrbraga/portfolio-web)  
-  Website multilíngue com dark mode, i18n e foco em alto impacto visual.  
-  Construído com Vite, React, TypeScript, Tailwind, deployado via GitHub Pages.
+- [**Professional Portfolio – Futuristic Web with React & Tailwind**](https://github.com/renanmrbraga/portfolio-web)  
+  A multilingual personal website featuring a modern interface, dark mode, and internationalization (i18n).  
+  Built with Vite, React, TypeScript, Tailwind, and deployed via GitHub Pages.
 
-- [**Professional Analyst – Chatbot Inteligente com Dados Públicos**](https://github.com/renanmrbraga/chatbot-llm)  
-  Sistema conversacional que responde perguntas sobre municípios brasileiros usando dados oficiais (IBGE, INEP, FNDE).  
-  Arquitetura RAG com FastAPI, PostgreSQL, MongoDB, Pinecone e frontend em React.
+- [**Professional Analyst – Intelligent Chatbot with Public Data**](https://github.com/renanmrbraga/chatbot-llm)  
+  A conversational AI that generates accurate insights about Brazilian cities using official public data (IBGE, INEP, FNDE), supporting data-driven decisions.  
+  Developed using RAG architecture (FastAPI, PostgreSQL, MongoDB, Pinecone, React).
 
-- [**Football Science – Análise Preditiva de Clubes da Série A**](https://github.com/renanmrbraga/football-science)  
-  Scraping automatizado, machine learning e dashboards interativos com Streamlit + ECharts.  
-  Foco em 10 anos de desempenho técnico, financeiro e tático dos clubes.
+- [**Football Science – Predictive Analytics for Brazilian Football Clubs**](https://github.com/renanmrbraga/football-science)  
+  An automated predictive analytics platform providing actionable performance insights from over 10 years of club data.  
+  Integrates web scraping, machine learning, and interactive visualizations (Streamlit, ECharts).
 
 ---
 
 ## Education & Certifications
 
-- **Technology in Computer Systems - UFF** *(in progress)*  
-- **Data Science - DNC** *(near completion)*  
-- **Technical in Informatics - CBB**  
-- **Data Analysis - DNC**  
-- **Data Cleaning and Organization with Python - DNC**  
-- **Data Analysis with Python - DNC**  
-- **Business Intelligence - DNC**  
-- **SQL for Data Analysis - DNC**  
-- **Data Analysis with Excel & Power BI - DNC**
+- **Technology in Computer Systems – Federal Fluminense University (UFF)** *(in progress)*  
+- **Data Science – DNC** *(near completion)*  
+- **Technical Diploma in Informatics – CBB**  
+- **Data Analysis – DNC**  
+- **Data Cleaning and Organization with Python – DNC**  
+- **Data Analysis with Python – DNC**  
+- **Business Intelligence – DNC**  
+- **SQL for Data Analysis – DNC**  
+- **Data Analysis with Excel & Power BI – DNC**
 
 ---
 
@@ -77,7 +77,7 @@ From scraping massive datasets to serving insights via dashboards or chatbots �
 
 ## Let's Connect
 
-**I'm open to opportunities and collaborations.** If you’d like to talk about projects, roles, or new ideas:
+**I'm open to opportunities and collaborations.** If you’d like to discuss projects, roles, or new ideas:
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:renanmbraga@outlook.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-333333?style=for-the-badge&logo=vercel&logoColor=white)](https://renanmrbraga.github.io)
