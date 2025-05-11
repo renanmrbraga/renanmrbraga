@@ -1,6 +1,6 @@
 # **Renan Braga**
 
-**Data Scientist | Data Automation & API Integration**  
+**Data Scientist**  
 I build intelligent and scalable data solutions using Python, SQL and automation — turning raw data into decisions.
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:renanmbraga@outlook.com)
