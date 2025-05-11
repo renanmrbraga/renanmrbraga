@@ -34,7 +34,7 @@ Passionate about data and scalable solutions. Strong experience in **AI, Python,
   APIs, Requests, BeautifulSoup, Selenium
 
 - **Dev & Ops**  
-  Git, Docker, Jupyter, VSCode
+  Docker, FastAPI, Git, Jupyter, VSCode
 
 ---
 
