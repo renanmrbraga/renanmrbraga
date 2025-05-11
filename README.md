@@ -1,7 +1,7 @@
 # **Renan Braga**
 
-**Data Scientist**  
-I build intelligent and scalable data solutions using Python, SQL and automation — turning raw data into decisions.
+**Data Scientist | AI & Automation Specialist**  
+I transform raw data into intelligent solutions — with code, strategy, and obsession for efficiency.
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:renanmbraga@outlook.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-333333?style=for-the-badge&logo=vercel&logoColor=white)](https://renanmrbraga.github.io)
@@ -11,8 +11,7 @@ I build intelligent and scalable data solutions using Python, SQL and automation
 
 ## About Me
 
-- **Career Objective:** Build **scalable and automated solutions** for data analysis, system integration, and business process optimization.  
-- **Always evolving:** Constantly seeking new challenges, tools, and technologies to take my projects to the next level.
+I'm a Data Scientist obsessed with turning complexity into clarity. I build scalable, automated systems that connect data, APIs, and intelligence to solve real-world problems. From scraping massive datasets to serving insights via dashboards or chatbots — I make data useful and beautiful.
 
 ---
 
