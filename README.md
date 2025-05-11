@@ -1,10 +1,10 @@
 # **Renan Braga**
 
-**Data Scientist | Integration & Automation Specialist**  
-Passionate about data and scalable solutions. Strong experience in **AI, Python, SQL, Power BI, Excel** and **business process optimization** through automation and system integration.
+**Data Scientist | Data Automation & API Integration**  
+I build intelligent and scalable data solutions using Python, SQL and automation — turning raw data into decisions.
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:renanmbraga@outlook.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-333333?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-web-eosin-three.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-333333?style=for-the-badge&logo=vercel&logoColor=white)](https://renanmrbraga.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renanmrbraga)
 
 ---
@@ -54,9 +54,9 @@ Passionate about data and scalable solutions. Strong experience in **AI, Python,
 
 ## GitHub Stats
 
-<p align="left" style="display: flex; gap: 10px;">
-   <img height="160px" style="border-radius: 10px;" src="https://github-readme-stats.vercel.app/api?username=renanmrbraga&show_icons=true&theme=dark&locale=en" alt="Renan's GitHub Stats" />
-   <img height="160px" style="border-radius: 10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renanmrbraga&layout=compact&langs_count=10&theme=dark&locale=en" alt="Top Languages Used" />
+<p align="left">
+  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=renanmrbraga&show_icons=true&theme=dark&locale=en&hide_rank=true" />
+  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renanmrbraga&layout=compact&langs_count=10&theme=dark&locale=en" />
 </p>
 
 ---
@@ -66,5 +66,5 @@ Passionate about data and scalable solutions. Strong experience in **AI, Python,
 **I'm open to opportunities and collaborations.** If you’d like to talk about projects, roles, or new ideas:
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:renanmbraga@outlook.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-333333?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-web-eosin-three.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-333333?style=for-the-badge&logo=vercel&logoColor=white)](https://renanmrbraga.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renanmrbraga)
