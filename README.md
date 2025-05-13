@@ -1,6 +1,6 @@
 # **Renan Braga**
 
-**Especialista em Dados | LLM • RAG • Scraping • Python • SQL • APIs • Dashboards • ML**
+**Especialista em Dados | LLM • RAG • ML • Scraping • Python • SQL • APIs • Dashboards**
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:renanmbraga@outlook.com)
 [![Portfólio](https://img.shields.io/badge/Portfolio-333333?style=for-the-badge&logo=vercel&logoColor=white)](https://renanmrbraga.github.io)
@@ -50,7 +50,7 @@ Sou movido por eficiência, aprendizado constante e pela entrega de soluções q
 
 ## Projetos em Destaque
 
-- [**WebCV – CV Interativo em React**](https://github.com/renanmrbraga/portfolio-web)  
+- [**Portfólio Web – CV Interativo em React**](https://github.com/renanmrbraga/portfolio-web)  
   Website pessoal multilíngue com design moderno, dark mode e i18n.  
   Construído com Vite, React, Tailwind e TypeScript.
 
