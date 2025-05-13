@@ -2,7 +2,7 @@
 
 **Especialista em Dados | LLM • RAG • ML • Scraping • Python • SQL • APIs • Dashboards**
 
-[![WebCV](https://img.shields.io/badge/Portfolio-333333?style=for-the-badge&logo=vercel&logoColor=white)](https://renanmrbraga.github.io)
+[![WebCV](https://img.shields.io/badge/WebCV-333333?style=for-the-badge&logo=vercel&logoColor=white)](https://renanmrbraga.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renanmrbraga)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:renanmbraga@outlook.com)
 
