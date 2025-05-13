@@ -26,7 +26,7 @@ Sou movido por eficiência, aprendizado constante e pela entrega de soluções q
   Python • SQL • TypeScript
 
 - **Manipulação de Dados**  
-  Pandas • NumPy
+  Pandas • NumPy • Polars
 
 - **Machine Learning**  
   Scikit-learn • XGBoost • LightGBM • Keras
