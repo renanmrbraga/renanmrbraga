@@ -41,7 +41,7 @@ Sou movido por eficiência, aprendizado constante e pela entrega de soluções q
   REST APIs • HTTP Requests • BeautifulSoup • Selenium
 
 - **Visualização de Dados**  
-  Streamlit • Power BI • Excel • Metabase • ECharts • Plotly
+  Streamlit • Power BI • Excel • Metabase • Matplotlib • Seaborn • Plotly • ECharts
 
 - **Dev e Ops**  
   FastAPI • Docker • Git • Jupyter • VSCode
