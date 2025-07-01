@@ -48,7 +48,7 @@ Aprender, testar e construir fazem parte da minha vida. Estou sempre buscando ev
   Arquitetura RAG com FastAPI, PostgreSQL, MongoDB, Pinecone e React.
 
 - [**Football Science**](https://github.com/renanmrbraga/football-science)  
-  Análises preditivas e dashboards baseados em dados históricos de clubes da Série A.  
+  Análises e dashboards baseados em dados históricos de clubes da Série A.  
   Integra scraping, machine learning e visualizações interativas (Streamlit, ECharts).
 
 ---
