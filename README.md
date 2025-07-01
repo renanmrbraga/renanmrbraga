@@ -2,7 +2,7 @@
 
 **Cientista de Dados | IA com LLMs & RAG • Automação com Python & SQL • Dashboards com Streamlit & Power BI**
 
-[![Portfólio](https://img.shields.io/badge/WebCV-333333?style=for-the-badge&logo=vercel&logoColor=white)](https://renanmrbraga.github.io)
+[![Portfólio](https://img.shields.io/badge/Portfólio-333333?style=for-the-badge&logo=vercel&logoColor=white)](https://renanmrbraga.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renanmrbraga)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:renanmbraga@outlook.com)
 
