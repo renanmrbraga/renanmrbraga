@@ -1,6 +1,6 @@
 # **Renan Braga**
 
-**Especialista em Dados | LLM • RAG • ML • Scraping • Python • SQL • APIs • Dashboards**
+**Cientista de Dados | IA com LLMs & RAG • Automação com Python & SQL • Dashboards com Streamlit & Power BI**
 
 [![WebCV](https://img.shields.io/badge/WebCV-333333?style=for-the-badge&logo=vercel&logoColor=white)](https://renanmrbraga.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renanmrbraga)
@@ -10,13 +10,11 @@
 
 ## Sobre Mim
 
-Sou Especialista em Dados com foco em integração, automação e IA. Crio soluções que transformam dados brutos em decisões, unindo scraping avançado, bancos de dados otimizados e modelos LLM de forma eficiente e escalável.
+Entrei no mundo da tecnologia ainda criança, aprendendo a usar meu primeiro PC. Na adolescência, comecei a desmontar computadores, formatar sistemas operacionais e administrar servidores de jogos online, com websites e bancos de dados próprios. Mais tarde, me formei como Técnico em Informática e desenvolvi sistemas completos em Excel e Power BI, com controle de estoque, vendas e dashboards automatizados.
 
-Tenho experiência prática com Python, SQL, APIs, Power BI, Excel avançado, scraping e bancos relacionais, não relacionais e vetoriais (PostgreSQL, MongoDB, Pinecone). Já desenvolvi sistemas para cálculos automáticos de comissão, segmentação estratégica de clientes, controle de KPIs, dashboards interativos e integração entre CRMs e bancos, sempre com foco em agilidade, escalabilidade e valor de negócio.
+Essa trajetória me levou até aqui: Cientista de Dados com foco em automação inteligente, IA aplicada (LLMs & RAG), web scraping, APIs, integração de dados e dashboards interativos com Python. Estruturei pipelines, chatbots e visualizações voltadas para tomadas de decisão e análise de desempenho.
 
-Atualmente, aprofundo meus conhecimentos em IA generativa e Machine Learning, aplicando técnicas de Retrieval-Augmented Generation (RAG) para desenvolver aplicações inteligentes baseadas em dados reais.
-
-Sou movido por eficiência, aprendizado constante e pela entrega de soluções que resolvem problemas de forma inteligente e escalável.
+Aprender, testar e construir fazem parte da minha vida. Estou sempre buscando evoluir como profissional e como pessoa.
 
 ---
 
@@ -61,15 +59,6 @@ Sou movido por eficiência, aprendizado constante e pela entrega de soluções q
 - [**Football Science – IA para Clubes de Futebol**](https://github.com/renanmrbraga/football-science)  
   Análises preditivas e dashboards baseados em dados históricos de clubes da Série A.  
   Integra scraping, machine learning e visualizações interativas (Streamlit, ECharts).
-
----
-
-## Formação e Certificações
-
-- Tecnologia em Sistemas de Computação – UFF *(em andamento)*  
-- Ciência de Dados – DNC *(em finalização)*  
-- Técnico em Informática – CBB  
-- Análise de Dados, BI, SQL, Power BI, Excel Avançado – DNC
 
 ---
 
