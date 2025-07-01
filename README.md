@@ -20,29 +20,20 @@ Aprender, testar e construir fazem parte da minha vida. Estou sempre buscando ev
 
 ## Tecnologias e Ferramentas
 
-- **Linguagens e Consultas**  
-  Python • SQL • TypeScript
+- **Análise e Modelagem de Dados**  
+ Python (Pandas, NumPy, Scikit-learn, XGBoost), clusterização (K-Means, Silhouette), modelos supervisionados, pré-processamento, tuning, validação cruzada e métricas (AUC, F1, RMSE)
 
-- **Manipulação de Dados**  
-  Pandas • NumPy • Polars
+- **Engenharia e Integração de Dados**  
+  SQL (joins, CTEs), ETL, APIs, scraping, pipelines, PostgreSQL, MongoDB, Pinecone
 
-- **Machine Learning**  
-  Scikit-learn • XGBoost • LightGBM • Keras
+- **Visualização e BI**  
+  Excel Avançado, Power BI (DAX), Streamlit, ECharts, Plotly, Matplotlib, Seaborn
 
 - **IA Generativa e LLMs**  
   LangChain • Hugging Face Transformers • Sentence-Transformers • Cohere • RAG
 
-- **Bancos de Dados**  
-  PostgreSQL • MongoDB • Pinecone
-
-- **Coleta de Dados e Integração com APIs**  
-  REST APIs • HTTP Requests • BeautifulSoup • Selenium
-
-- **Visualização de Dados**  
-  Streamlit • Power BI • Excel • Metabase • Matplotlib • Seaborn • Plotly • ECharts
-
-- **Dev e Ops**  
-  FastAPI • Docker • Git • Jupyter • VSCode
+- **Arquitetura de Sistemas e Deploy**  
+  Git, Docker, documentação, FastAPI, LLMs, RAG
 
 ---
 
