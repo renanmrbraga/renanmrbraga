@@ -39,15 +39,15 @@ Aprender, testar e construir fazem parte da minha vida. Estou sempre buscando ev
 
 ## Projetos em Destaque
 
-- [**Portfólio Web – CV Interativo em React**](https://github.com/renanmrbraga/portfolio-web)  
+- [**Portfólio Web**](https://github.com/renanmrbraga/portfolio-web)  
   Website pessoal multilíngue com design moderno, dark mode e i18n.  
   Construído com Vite, React, Tailwind e TypeScript.
 
-- [**Chatbot com IA e Dados Públicos**](https://github.com/renanmrbraga/chatbot-llm)  
+- [**Chatbot com IA**](https://github.com/renanmrbraga/chatbot-llm)  
   Chatbot inteligente que responde sobre cidades brasileiras usando dados do IBGE, INEP e FNDE.  
   Arquitetura RAG com FastAPI, PostgreSQL, MongoDB, Pinecone e React.
 
-- [**Football Science – IA para Clubes de Futebol**](https://github.com/renanmrbraga/football-science)  
+- [**Football Science**](https://github.com/renanmrbraga/football-science)  
   Análises preditivas e dashboards baseados em dados históricos de clubes da Série A.  
   Integra scraping, machine learning e visualizações interativas (Streamlit, ECharts).
 
