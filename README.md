@@ -1,6 +1,6 @@
-# **Renan Braga**
+# **Renan Martins Braga**
 
-**Cientista de Dados | IA com LLMs & RAG • Automação com Python & SQL • Dashboards com Streamlit & Power BI**
+**Analista de Dados | Python, SQL & Automação | ML, LLMs & RAG | Power BI, Excel & Streamlit**
 
 [![Portfólio](https://img.shields.io/badge/Portfólio-333333?style=for-the-badge&logo=vercel&logoColor=white)](https://renanmrbraga.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renanmrbraga)
@@ -10,46 +10,45 @@
 
 ## Sobre Mim
 
-Entrei no mundo da tecnologia ainda criança, aprendendo a usar meu primeiro PC. Na adolescência, comecei a desmontar computadores, formatar sistemas operacionais e administrar servidores de jogos online, com websites e bancos de dados próprios. Mais tarde, me formei como Técnico em Informática e desenvolvi sistemas completos em Excel e Power BI, com controle de estoque, vendas e dashboards automatizados.
+Sou Analista de Dados com foco em IA aplicada, automação e visualização interativa. Estruturei pipelines, criei chatbots inteligentes com LLMs e desenvolvi dashboards que apoiam decisões estratégicas em marketing, educação e negócios.
 
-Essa trajetória me levou até aqui: Cientista de Dados com foco em automação inteligente, IA aplicada (LLMs & RAG), web scraping, APIs, integração de dados e dashboards interativos com Python. Estruturei pipelines, chatbots e visualizações voltadas para tomadas de decisão e análise de desempenho.
-
-Aprender, testar e construir fazem parte da minha vida. Estou sempre buscando evoluir como profissional e como pessoa.
+Minha jornada começou cedo: aos 13, já desmontava PCs e administrava servidores com banco de dados e sites próprios. Hoje, aplico essa curiosidade técnica para resolver problemas reais com Python, SQL e IA.
 
 ---
 
 ## Tecnologias e Ferramentas
 
-- **Análise e Modelagem de Dados**  
- Python (Pandas, NumPy, Scikit-learn, XGBoost), clusterização (K-Means, Silhouette), modelos supervisionados, pré-processamento, tuning, validação cruzada e métricas (AUC, F1, RMSE)
-
-- **Engenharia e Integração de Dados**  
-  SQL (joins, CTEs), ETL, APIs, scraping, pipelines, PostgreSQL, MongoDB, Pinecone
-
-- **Visualização e BI**  
-  Excel Avançado, Power BI (DAX), Streamlit, ECharts, Plotly, Matplotlib, Seaborn
-
-- **IA Generativa e LLMs**  
-  LangChain • Hugging Face Transformers • Sentence-Transformers • Cohere • RAG
-
-- **Arquitetura de Sistemas e Deploy**  
-  Git, Docker, documentação, FastAPI, LLMs, RAG
+- **Modelagem e Machine Learning:** Scikit-learn, XGBoost, LightGBM, tuning (Optuna), validação cruzada, métricas (AUC, F1, RMSE)
+- **Manipulação e ETL:** Pandas, NumPy, SQL (Joins, CTEs), APIs, Web Scraping, PostgreSQL, MongoDB, Pinecone
+- **Visualização e BI:** Power BI (DAX), Excel Avançado, Streamlit, Plotly, Matplotlib, Seaborn
+- **IA com LLMs e RAG:** LangChain, HuggingFace, Transformers, SentenceTransformers, Cohere, RAG pipelines
+- **Deploy e Arquitetura:** FastAPI, Git, Docker, CI/CD, documentação
 
 ---
 
 ## Projetos em Destaque
 
-- [**Portfólio Web**](https://github.com/renanmrbraga/portfolio-web)  
-  Website pessoal multilíngue com design moderno, dark mode e i18n.  
-  Construído com Vite, React, Tailwind e TypeScript.
-
 - [**Chatbot com IA**](https://github.com/renanmrbraga/chatbot-llm)  
-  Chatbot inteligente que responde sobre cidades brasileiras usando dados do IBGE, INEP e FNDE.  
-  Arquitetura RAG com FastAPI, PostgreSQL, MongoDB, Pinecone e React.
+  Chatbot com RAG que responde perguntas sobre cidades do Brasil com dados reais do IBGE, INEP e FNDE.  
+  • Arquitetura robusta com FastAPI, MongoDB, PostgreSQL, Pinecone  
+  • Aplicação prática de LLMs com automação de ingestão e embeddings
 
 - [**Football Science**](https://github.com/renanmrbraga/football-science)  
-  Análises e dashboards baseados em dados históricos de clubes da Série A.  
-  Integra scraping, machine learning e visualizações interativas (Streamlit, ECharts).
+  Projeto de análise e previsão com dados históricos de clubes da Série A.  
+  • Inclui scraping, ML supervisionado e dashboards em Streamlit/ECharts  
+  • Apoia decisões de scouting e análise de performance esportiva
+
+- [**Portfólio Web**](https://github.com/renanmrbraga/portfolio-web)  
+  Website pessoal multilíngue com design moderno, dark mode e i18n.  
+  • Construído com Vite, React, Tailwind e TypeScript
+
+---
+
+## Certificados e Formação
+
+- **Tecnologia em Sistemas de Computação** — UFF (em andamento)  
+- **Cientista de Dados** — Escola DNC  
+- Certificados práticos: Python, SQL, Power BI, Regressão, Modelagem supervisionada (ver [Portfólio](https://renanmrbraga.github.io))
 
 ---
 
@@ -62,9 +61,10 @@ Aprender, testar e construir fazem parte da minha vida. Estou sempre buscando ev
 
 ---
 
-## Vamos Conversar?
+## Entre em Contato
 
-Estou aberto a oportunidades, projetos e colaborações. Se quiser discutir soluções baseadas em dados, automação ou IA, estou à disposição.
+Estou em busca de desafios com dados, automação e IA aplicada.  
+Se seu projeto precisa de performance, impacto e execução — vamos conversar:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renanmrbraga)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:renanmbraga@outlook.com)
