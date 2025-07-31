@@ -18,25 +18,25 @@ Minha jornada começou cedo: na adolescência, já desmontava PCs e administrava
 
 ## Tecnologias e Ferramentas
 
-🧠 Modelagem & Machine Learning (Python):
-• Scikit-learn, XGBoost, LightGBM, CatBoost
-• Tuning com Optuna, GridSearchCV
-• Métricas: AUC, F1, Precision, Recall, Accuracy, Log Loss, R², RMSE, MAE, MAPE
-
-🔄 Manipulação de Dados & ETL:
+- Manipulação de Dados & ETL:
 • Python (Pandas, NumPy, Polars, Dask, Vaex, PyArrow)
 • SQL (Joins, CTEs), APIs, Web Scraping
 • Banco de Dados: PostgreSQL, MongoDB, Pinecone
 
-📊 Visualização & BI:
+- Visualização & BI:
 • Power BI (DAX), Excel Avançado
 • Python (Plotly, Streamlit, Matplotlib, Seaborn)
 
-🤖 IA Aplicada com LLMs & RAG:
+- Modelagem & Machine Learning (Python):
+• Scikit-learn, XGBoost, LightGBM, CatBoost
+• Tuning com Optuna, GridSearchCV
+• Métricas: AUC, F1, Precision, Recall, Accuracy, Log Loss, R², RMSE, MAE, MAPE
+
+- IA Aplicada com LLMs & RAG:
 • LangChain, HuggingFace, Transformers, SentenceTransformers, Cohere
 • Construção de pipelines RAG com integração multimodal
 
-🚀 Deploy & Arquitetura:
+- Deploy & Arquitetura:
 • FastAPI, REST APIs, Docker, CI/CD, Git
 • Versionamento, documentação e deploy de pipelines
 
