@@ -19,26 +19,26 @@ Minha jornada começou cedo: na adolescência, já desmontava PCs e administrava
 ## Tecnologias e Ferramentas
 
 ### Manipulação de Dados & ETL:
-• Python (Pandas, NumPy, Polars, Dask, Vaex, PyArrow)
-• SQL (Joins, CTEs), APIs, Web Scraping
-• Banco de Dados: PostgreSQL, MongoDB, Pinecone
+- Python (Pandas, NumPy, Polars, Dask, Vaex, PyArrow)
+- SQL (Joins, CTEs), APIs, Web Scraping
+- Banco de Dados: PostgreSQL, MongoDB, Pinecone
 
 ### Visualização & BI:
-• Power BI (DAX), Excel Avançado
-• Python (Plotly, Streamlit, Matplotlib, Seaborn)
+- Power BI (DAX), Excel Avançado
+- Python (Plotly, Streamlit, Matplotlib, Seaborn)
 
 ### Modelagem & Machine Learning (Python):
-• Scikit-learn, XGBoost, LightGBM, CatBoost
-• Tuning com Optuna, GridSearchCV
-• Métricas: AUC, F1, Precision, Recall, Accuracy, Log Loss, R², RMSE, MAE, MAPE
+- Scikit-learn, XGBoost, LightGBM, CatBoost
+- Tuning com Optuna, GridSearchCV
+- Métricas: AUC, F1, Precision, Recall, Accuracy, Log Loss, R², RMSE, MAE, MAPE
 
 ### IA Aplicada com LLMs & RAG:
-• LangChain, HuggingFace, Transformers, SentenceTransformers, Cohere
+- LangChain, HuggingFace, Transformers, SentenceTransformers, Cohere
 • Construção de pipelines RAG com integração multimodal
 
 ### Deploy & Arquitetura:
-• FastAPI, REST APIs, Docker, CI/CD, Git
-• Versionamento, documentação e deploy de pipelines
+- FastAPI, REST APIs, Docker, CI/CD, Git
+- Versionamento, documentação e deploy de pipelines
 
 ---
 
