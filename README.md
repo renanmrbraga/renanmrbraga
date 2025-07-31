@@ -48,7 +48,7 @@ Minha jornada começou cedo: aos 13, já desmontava PCs e administrava servidore
 
 - **Tecnologia em Sistemas de Computação** — UFF (em andamento)  
 - **Cientista de Dados** — Escola DNC  
-- Certificados práticos: Python, SQL, Power BI, Regressão, Modelagem supervisionada (ver [Portfólio](https://renanmrbraga.github.io))
+- Certificados práticos: Ciência de Dados, Análise de Dados, Python, SQL, Power BI, Excel, Metabase, Regressão, Clusterização, Modelagem, Chatbot (ver [Portfólio](https://renanmrbraga.github.io))
 
 ---
 
