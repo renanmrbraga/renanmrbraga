@@ -44,17 +44,17 @@ Minha jornada começou cedo: na adolescência, já desmontava PCs e administrava
 
 ## Projetos em Destaque
 
-- [**Chatbot com IA**](https://github.com/renanmrbraga/chatbot-llm)  
+### [**Chatbot com IA**](https://github.com/renanmrbraga/chatbot-llm)  
   Chatbot com RAG que responde perguntas sobre cidades do Brasil com dados reais do IBGE, INEP e FNDE.  
   • Arquitetura robusta com FastAPI, MongoDB, PostgreSQL, Pinecone  
   • Aplicação prática de LLMs com automação de ingestão e embeddings
 
-- [**Football Science**](https://github.com/renanmrbraga/football-science)  
+### [**Football Science**](https://github.com/renanmrbraga/football-science)  
   Projeto de análise e previsão com dados históricos de clubes da Série A.  
   • Inclui scraping, ML supervisionado e dashboards em Streamlit/ECharts  
   • Apoia decisões de scouting e análise de performance esportiva
 
-- [**Portfólio Web**](https://github.com/renanmrbraga/portfolio-web)  
+### [**Portfólio Web**](https://github.com/renanmrbraga/portfolio-web)  
   Website pessoal multilíngue com design moderno, dark mode e i18n.  
   • Construído com Vite, React, Tailwind e TypeScript
 
@@ -62,9 +62,9 @@ Minha jornada começou cedo: na adolescência, já desmontava PCs e administrava
 
 ## Formação e Certificados
 
-- **Tecnologia em Sistemas de Computação** — UFF (em andamento)  
-- **Cientista de Dados** — Escola DNC  
-- Certificados práticos: Ciência de Dados, Análise de Dados, Python, SQL, Power BI, Excel, Metabase, Regressão, Clusterização, Modelagem, Chatbot (ver [Portfólio](https://renanmrbraga.github.io))
+### **Tecnologia em Sistemas de Computação** — UFF (em andamento)  
+### **Cientista de Dados** — Escola DNC  
+### Certificados práticos: Ciência de Dados, Análise de Dados, Python, SQL, Power BI, Excel, Metabase, Regressão, Clusterização, Modelagem, Chatbot (ver [Portfólio](https://renanmrbraga.github.io))
 
 ---
 
