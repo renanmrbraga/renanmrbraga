@@ -44,7 +44,7 @@ Minha jornada começou cedo: na adolescência, já desmontava PCs e administrava
 
 ---
 
-## Certificados e Formação
+## Formação e Certificados
 
 - **Tecnologia em Sistemas de Computação** — UFF (em andamento)  
 - **Cientista de Dados** — Escola DNC  
