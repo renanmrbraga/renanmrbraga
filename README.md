@@ -18,11 +18,27 @@ Minha jornada começou cedo: na adolescência, já desmontava PCs e administrava
 
 ## Tecnologias e Ferramentas
 
-- **Modelagem e Machine Learning:** Scikit-learn, XGBoost, LightGBM, tuning (Optuna), validação cruzada, métricas (AUC, F1, RMSE)
-- **Manipulação e ETL:** Pandas, NumPy, SQL (Joins, CTEs), APIs, Web Scraping, PostgreSQL, MongoDB, Pinecone
-- **Visualização e BI:** Power BI (DAX), Excel Avançado, Streamlit, Plotly, Matplotlib, Seaborn
-- **IA com LLMs e RAG:** LangChain, HuggingFace, Transformers, SentenceTransformers, Cohere, RAG pipelines
-- **Deploy e Arquitetura:** FastAPI, Git, Docker, CI/CD, documentação
+🧠 Modelagem & Machine Learning (Python):
+• Scikit-learn, XGBoost, LightGBM, CatBoost
+• Tuning com Optuna, GridSearchCV
+• Métricas: AUC, F1, Precision, Recall, Accuracy, Log Loss, R², RMSE, MAE, MAPE
+
+🔄 Manipulação de Dados & ETL:
+• Python (Pandas, NumPy, Polars, Dask, Vaex, PyArrow)
+• SQL (Joins, CTEs), APIs, Web Scraping
+• Banco de Dados: PostgreSQL, MongoDB, Pinecone
+
+📊 Visualização & BI:
+• Power BI (DAX), Excel Avançado
+• Python (Plotly, Streamlit, Matplotlib, Seaborn)
+
+🤖 IA Aplicada com LLMs & RAG:
+• LangChain, HuggingFace, Transformers, SentenceTransformers, Cohere
+• Construção de pipelines RAG com integração multimodal
+
+🚀 Deploy & Arquitetura:
+• FastAPI, REST APIs, Docker, CI/CD, Git
+• Versionamento, documentação e deploy de pipelines
 
 ---
 
