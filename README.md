@@ -12,7 +12,7 @@
 
 Sou Analista de Dados com foco em IA aplicada, automação e visualização interativa. Estruturei pipelines, criei chatbots inteligentes com LLMs e desenvolvi dashboards que apoiam decisões estratégicas em marketing, educação e negócios.
 
-Minha jornada começou cedo: aos 13, já desmontava PCs e administrava servidores com banco de dados e sites próprios. Hoje, aplico essa curiosidade técnica para resolver problemas reais com Python, SQL e IA.
+Minha jornada começou cedo: na adolescência, já desmontava PCs e administrava servidores com banco de dados e sites próprios. Hoje, aplico essa curiosidade técnica para resolver problemas reais com Python, SQL e IA.
 
 ---
 
