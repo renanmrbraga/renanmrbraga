@@ -80,7 +80,6 @@ Construí pipelines ponta-a-ponta, integrei dados com múltiplas fontes, impleme
 ## Entre em Contato
 
 Estou em busca de desafios com dados, automação e IA aplicada.  
-Se seu projeto precisa de performance, impacto e execução — vamos conversar:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renanmrbraga)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:renanmbraga@outlook.com)
