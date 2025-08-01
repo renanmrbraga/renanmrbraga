@@ -1,6 +1,6 @@
 # **Renan Martins Braga**
 
-**Analista de Dados | Python, SQL & Automação | ML, LLMs & RAG | Power BI, Excel & Streamlit**
+**Analista de Dados | Python, SQL & Automação | Power BI, Excel & Streamlit | ML, LLMs & RAG**
 
 [![Portfólio](https://img.shields.io/badge/Portfólio-333333?style=for-the-badge&logo=vercel&logoColor=white)](https://renanmrbraga.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renanmrbraga)
