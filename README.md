@@ -1,67 +1,95 @@
-# **Renan Braga**
+# Renan Braga
 
-**Analista de Dados | Python, SQL & Power BI | Modelagem de Dados & ETL | RAG & LLMs**
+**Analista de Dados | Engenharia de Dados & ETL | Python, SQL & Power BI | Inteligência Artificial & RAG**
 
-[![Portfólio](https://img.shields.io/badge/Portfólio-333333?style=for-the-badge&logo=vercel&logoColor=white)](https://renanmrbraga.github.io)
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-333333?style=for-the-badge&logo=vercel&logoColor=white)](https://renanmrbraga.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renanmrbraga)
 
 ---
 
 ## Sobre Mim
 
-Sou Analista de Dados. Construo pipelines de dados, integro múltiplas fontes de dados, integro LLMs com RAG e desenvolvo dashboards para métricas de desempenho e tomada de decisão.
+Sou Analista de Dados com experiência em Inteligência de Marketing e Gestão Comercial, atuando no desenvolvimento de pipelines ETL, modelagem dimensional, automação de processos, Business Intelligence e análises estatísticas.
+
+Trabalho com integração de fontes heterogêneas, estruturação de bases analíticas e desenvolvimento de dashboards para acompanhamento de indicadores e apoio à tomada de decisão.
+
+Também desenvolvo soluções que integram engenharia de dados, APIs, modelos de linguagem (LLMs) e RAG, com aplicações em dados educacionais e inteligência de mercado.
+
+---
+
+## Experiência e Resultados
+
+- Desenvolvimento de pipelines ETL em Python e Polars, integrando dados de Excel, ERP, CRM e outras fontes, com redução do tempo de consolidação de horas para minutos.
+- Implementação de validações automatizadas, mecanismos de controle de falhas e relatórios de auditoria de dados.
+- Modelagem dimensional e desenvolvimento de dashboards executivos em Power BI para acompanhamento de KPIs.
+- Análises estatísticas e estudos de mercado com dados públicos do INEP, CAPES, ENADE e IBGE.
+- Automação de processos analíticos e integração de dados para inteligência comercial e estratégica.
 
 ---
 
 ## Tecnologias e Ferramentas
 
-### Manipulação de Dados & ETL:
+### Engenharia de Dados
 
-- Python (Pandas, NumPy, Polars, Dask, Vaex, PyArrow)
-- SQL (Joins, CTEs), APIs, Web Scraping
-- Banco de Dados: PostgreSQL, MongoDB, Pinecone
+Python, Polars, Pandas, PyArrow, SQL, PostgreSQL, Parquet, APIs REST, ETL e arquitetura Medallion (Bronze, Silver e Gold).
 
-### Visualização & BI:
+### Business Intelligence e Visualização
 
-- Power BI (DAX), Excel Avançado
-- Python (Plotly, Streamlit, Matplotlib, Seaborn)
+Power BI, DAX, Excel Avançado, Metabase, Streamlit, Plotly e Matplotlib.
 
-### Modelagem & Machine Learning (Python):
+### Machine Learning e Estatística
 
-- Scikit-learn, XGBoost, LightGBM, CatBoost
-- Tuning com Optuna, GridSearchCV
-- Métricas: AUC, F1, Precision, Recall, Accuracy, Log Loss, R², RMSE, MAE, MAPE
+Scikit-learn, XGBoost, LightGBM, CatBoost, classificação, regressão, clusterização e avaliação de modelos.
 
-### IA Aplicada com LLMs & RAG:
+### Inteligência Artificial
 
-- APIs, LangChain, HuggingFace, Transformers
+LLMs, RAG, embeddings, pgvector, integração com APIs e engenharia de prompts.
 
-### Deploy & Arquitetura:
+### Desenvolvimento e Infraestrutura
 
-- FastAPI, REST APIs, Docker, Git
-- Versionamento, documentação e deploy de pipelines
+FastAPI, React, TypeScript, JavaScript, Docker, Git e GitHub.
 
 ---
 
 ## Projetos em Destaque
 
-### [**Chatbot com IA**](https://github.com/renanmrbraga/chatbot-llm)
+### [EI DataBot](https://github.com/renanmrbraga/ei_databot)
 
-Chatbot com RAG que responde perguntas sobre cidades do Brasil com dados reais do IBGE, INEP e FNDE.  
- • Arquitetura com FastAPI, MongoDB, PostgreSQL, Pinecone  
- • Aplicação prática de LLMs com automação de ingestão e embeddings
+Plataforma experimental de engenharia de dados e análises educacionais, integrando informações públicas do INEP e IBGE/SIDRA.
 
-### [**Portfólio Web**](https://github.com/renanmrbraga/portfolio-web)
+- Pipeline ETL em Python e Polars, com arquitetura Medallion e aproximadamente 2,7 milhões de registros processados.
+- Modelo dimensional com cinco dimensões e cinco tabelas fato no PostgreSQL.
+- Dashboards educacionais com indicadores e visualizações interativas.
+- Integração em desenvolvimento entre FastAPI, React/TypeScript, LLMs e RAG com PostgreSQL/pgvector.
+- **Status:** Alpha 1, em desenvolvimento.
 
-Website pessoal multilíngue com design dark mode e i18n.  
- • Construído com Vite, React, Tailwind e TypeScript
+[Ver apresentação no portfólio](https://renanmrbraga.vercel.app/projects/ei-databot)
+
+### [Portfólio Web](https://github.com/renanmrbraga/portfolio_web)
+
+Aplicação web responsiva e multilíngue para apresentação profissional e documentação de projetos.
+
+- React, TypeScript, Vite e Tailwind CSS.
+- Conteúdo em português e inglês.
+- Páginas dedicadas à arquitetura e evolução dos projetos.
+- Publicação estática com configuração para Vercel.
 
 ---
 
-## Formação e Certificados
+## Formação e Certificações
 
-### **Ciência de Dados** — Estácio (em andamento)
+**Graduação em Ciência de Dados** | Estácio
+Em andamento, com conclusão prevista para dezembro de 2027.
 
-### **Técnico em Informática** — Colégio Batista Brasil
+**Certificação como Cientista de Dados** | Escola DNC
+2025.
 
-### Certificados: Cientista de Dados, Ciência de Dados, Análise de Dados, Python, SQL, Power BI, Excel, Metabase, Regressão, Clusterização, Modelagem, Chatbot com IA (Escola DNC).
+**Técnico em Informática** | Colégio Batista Brasil
+2010.
+
+---
+
+## Idiomas
+
+- Português: nativo.
+- Inglês: avançado em leitura e escrita.
