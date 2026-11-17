@@ -2,7 +2,7 @@
 
 **Analista de Dados | Python, SQL & BI | Engenharia de Dados & ETL | LLMs & RAG**
 
-[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-333333?style=for-the-badge&logo=vercel&logoColor=white)](https://renanmrbraga.github.io/)
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-333333?style=for-the-badge&logo=vercel&logoColor=white)](https://renanmrbraga.vercel.app/?utm_source=github&utm_medium=referral&utm_campaign=portfolio&utm_content=perfil_badge)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renanmrbraga)
 
 ---
@@ -67,7 +67,7 @@ Plataforma experimental de engenharia de dados e análises educacionais, integra
 
 **Status:** integração experimental em ambiente local, com indicadores limitados e funcionalidades em evolução.
 
-[Ver apresentação no portfólio](https://renanmrbraga.vercel.app/projects/ei-databot)
+[Ver apresentação no portfólio](https://renanmrbraga.vercel.app/projects/ei-databot?utm_source=github&utm_medium=referral&utm_campaign=portfolio&utm_content=perfil_ei_databot)
 
 ### [Portfólio Web](https://github.com/renanmrbraga/portfolio_web)
 
