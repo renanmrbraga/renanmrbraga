@@ -67,7 +67,7 @@ Plataforma experimental de engenharia de dados e análises educacionais, integra
 
 **Status:** integração experimental em ambiente local, com indicadores limitados e funcionalidades em evolução.
 
-[Ver apresentação no portfólio](https://renanmrbraga.vercel.app/projects/ei-databot?utm_source=github&utm_medium=referral&utm_campaign=portfolio&utm_content=perfil_ei_databot)
+[Ver apresentação no portfólio](https://renanmrbraga.vercel.app/projects/ei-databot?utm_source=github&utm_medium=social&utm_campaign=portfolio&utm_content=ei_databot)
 
 ### [Portfólio Web](https://github.com/renanmrbraga/portfolio_web)
 
