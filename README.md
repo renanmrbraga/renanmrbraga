@@ -2,7 +2,7 @@
 
 **Analista de Dados | Python, SQL & BI | Engenharia de Dados & ETL | LLMs & RAG**
 
-[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-333333?style=for-the-badge&logo=vercel&logoColor=white)](https://renanmrbraga.vercel.app/?utm_source=github&utm_medium=referral&utm_campaign=portfolio&utm_content=perfil_badge)
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-333333?style=for-the-badge&logo=vercel&logoColor=white)](https://renanmrbraga.github.io/github/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renanmrbraga)
 
 ---
